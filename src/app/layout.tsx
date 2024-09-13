@@ -15,7 +15,7 @@ type Props = Readonly<{
 export default function RootLayout({ children }: Props) {
 	return (
 		<html lang="en">
-			<body className={`flex flex-col md:flex-row ${openSans.className} antialiased bg-background`}>
+			<body className={`flex flex-col md:flex-row ${openSans.className} antialiased bg-background print:bg-white`}>
 				<Sidebar />
 				<div className="flex w-full flex-row" id="content">
 					{children}

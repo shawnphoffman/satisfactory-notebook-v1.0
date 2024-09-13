@@ -64,13 +64,16 @@ export default function Sidebar() {
 				<div className="text-sm ms-4">
 					<ul className="list-disc list-outside padding ps-4">
 						<li>
-							<strong>Margins:</strong> None
+							<strong>Margins:</strong> Default
 						</li>
 						<li>
 							<strong>Scale:</strong> 100
 						</li>
 						<li>
 							<strong>Background Graphics:</strong> ✅️
+						</li>
+						<li>
+							<strong>Headers & Footers:</strong> ⛔️
 						</li>
 					</ul>
 				</div>

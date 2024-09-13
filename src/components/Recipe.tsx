@@ -21,7 +21,7 @@ export default function Recipe({ recipe }: Props) {
 	/* TODO This is dumb... */
 	const primaryProducer = getBuildingByClassName(recipe.producedIn.length ? recipe.producedIn[0] : '')
 	return (
-		<div key={recipe.className} className="flex border flex-col items-center p-2 rounded-md break-inside-avoid max-w-full gap-1">
+		<div key={recipe.className} className="flex border flex-col items-center p-2 rounded-md break-inside-avoid max-w-full gap-1 ">
 			{/*  */}
 			<div className="flex w-full">
 				<div className="flex-1 basis-1/5 text-[11px] font-medium italic items-start justify-start flex">
