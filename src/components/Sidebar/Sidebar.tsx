@@ -7,7 +7,7 @@ import logo from './logo_stripes.png'
 export default function Sidebar() {
 	return (
 		<div
-			className="flex bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky basis-72 overflow-hidden top-0 p-2 flex-col justify-start h-auto md:h-screen border-r border-r-sidebar-dark/20 print:hidden gap-4"
+			className="flex bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky sm:basis-72 overflow-hidden top-0 p-2 flex-col justify-start h-auto md:h-screen border-r border-r-sidebar-dark/20 print:hidden gap-4"
 			id="sidebar"
 		>
 			<Image src={logo} alt="Satisfactory Notebook" width={280} priority className="self-center md:self-start" />
@@ -55,7 +55,7 @@ export default function Sidebar() {
 				</div>
 			</div>
 			{/* Print Settings */}
-			<div className="flex flex-col gap-2">
+			<div className="flex-col gap-2 hidden sm:flex">
 				<div className="font-bold flex flex-row gap-0.5 items-center">
 					<FontAwesomeIcon icon={faPrint} fixedWidth />
 					<span>Print Settings</span>
@@ -83,7 +83,7 @@ export default function Sidebar() {
 				I am currently updating the site for 1.0. Check back for additional functionality.
 			</div>
 
-			<div className="flex flex-1 justify-end text-[11px] italic flex-col flex-wrap text-pretty leading-normal">
+			<div className=" hidden sm:flex flex-1 justify-end text-[11px] italic flex-col flex-wrap text-pretty leading-normal">
 				Assets come from Satisfactory or from websites created and owned by Coffee Stain Studios. All copyright and registered trademarks
 				present in the images are proprietary to Coffee Stain Studios.
 			</div>

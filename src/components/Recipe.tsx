@@ -49,7 +49,7 @@ export default function Recipe({ recipe }: Props) {
 				</div>
 			</div>
 			{/*  */}
-			<div className="w-full flex items-center gap-2 flex-col sm:flex-row">
+			<div className="w-full flex items-center -gap-1 sm:gap-2 flex-col sm:flex-row">
 				{/* Ingredients */}
 				<div className="w-full flex-1 gap-0.5 flex flex-col">
 					{recipe.ingredients.map(recipePart => (
@@ -58,7 +58,11 @@ export default function Recipe({ recipe }: Props) {
 				</div>
 				{/* Arrow */}
 				<div className="flex-0 shrink-1 rotate-90 sm:rotate-0">
-					<FontAwesomeIcon icon={faArrowAltRight} />
+					{/* <div className="flex-0 shrink-1"> */}
+					<FontAwesomeIcon icon={faArrowAltRight} className="!hidden sm:!inline-block" />
+
+					<FontAwesomeIcon icon={faArrowAltRight} className="!inline-block sm:!hidden relative" transform={'grow-10'} />
+					{/* <FontAwesomeIcon icon={faCircleDown} className="!inline-block sm:!hidden relative" transform={'grow-15'} /> */}
 				</div>
 				{/* Products */}
 				<div className="w-full flex-1 gap-0.5 flex flex-col">
