@@ -35,18 +35,24 @@ export default function Recipe({ recipe }: Props) {
 					)}
 					{recipe.inHand && <FontAwesomeIcon icon={faHand} className="text-alt-purple/50 text-base" title="Hand Craftable" />}
 				</div>
-				<h2 className="text-center text-base font-bold w-full leading-tight">{recipe.name}</h2>
+				<h2 className="text-center text-base font-bold w-fit leading-tight">{recipe.name}</h2>
 				<div className="flex-1 whitespace-nowrap basis-1/5 text-[11px] font-medium italic items-center justify-end flex text-muted gap-1">
 					{primaryProducer && (
 						<>
 							{primaryProducer.name}
-							<ItemImage itemClass={primaryProducer.className} alt={primaryProducer.name} className="w-5 h-5" width={20} height={20} />
+							<ItemImage
+								itemClass={primaryProducer.className}
+								alt={primaryProducer.name}
+								className="w-5 h-5 hidden sm:block"
+								width={20}
+								height={20}
+							/>
 						</>
 					)}
 				</div>
 			</div>
 			{/*  */}
-			<div className="w-full flex items-center gap-2 flex-row">
+			<div className="w-full flex items-center gap-2 flex-col sm:flex-row">
 				{/* Ingredients */}
 				<div className="w-full flex-1 gap-0.5 flex flex-col">
 					{recipe.ingredients.map(recipePart => (
@@ -54,7 +60,7 @@ export default function Recipe({ recipe }: Props) {
 					))}
 				</div>
 				{/* Arrow */}
-				<div className="flex-0 shrink-1">
+				<div className="flex-0 shrink-1 rotate-90 sm:rotate-0">
 					<FontAwesomeIcon icon={faArrowAltRight} />
 				</div>
 				{/* Products */}

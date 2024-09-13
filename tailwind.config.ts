@@ -6,6 +6,7 @@ const config: Config = {
 	theme: {
 		extend: {
 			screens: {
+				// xs: '500px',
 				// Print media
 				// print: { raw: 'print' },
 			},

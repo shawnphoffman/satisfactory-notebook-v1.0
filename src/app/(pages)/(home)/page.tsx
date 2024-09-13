@@ -47,8 +47,8 @@ export default async function Home() {
 						{/* Overview */}
 						<div className="flex flex-row w-full justify-between gap-4">
 							<div className="flex-1 flex flex-col gap-3">
-								<h1 className="text-3xl font-bold">{value.name}</h1>
-								<div className="text-xs leading-normal">{value.description}</div>
+								<h1 className="text-3xl font-bold text-pretty">{value.name}</h1>
+								<div className="text-xs leading-normal text-pretty">{value.description}</div>
 							</div>
 
 							<ItemImage itemClass={key} className="p-1 rounded-md border w-24 h-24" width={96} height={96} alt={value.name} />

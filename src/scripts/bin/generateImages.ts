@@ -1,7 +1,8 @@
 import * as fs from 'fs'
 import * as path from 'path'
 import sharp from 'sharp'
-import { IJsonSchema } from '../schema/IJsonSchema'
+
+import { IJsonSchema } from './schema/IJsonSchema'
 
 const baseOriginalPath = path.join(__dirname, '..', 'data', 'icons', 'out256')
 const baseTargetPath = path.join(__dirname, '..', 'www', 'assets', 'images', 'items')
