@@ -18,9 +18,6 @@ type Props = {
 }
 
 export default function Recipe({ recipe }: Props) {
-	if (recipe.producedIn.length > 1) {
-		console.warn('Multiple buildings for recipe', recipe)
-	}
 	/* TODO This is dumb... */
 	const primaryProducer = getBuildingByClassName(recipe.producedIn.length ? recipe.producedIn[0] : '')
 	return (
@@ -33,9 +30,9 @@ export default function Recipe({ recipe }: Props) {
 					{recipe.inWorkshop && (
 						<FontAwesomeIcon icon={faScrewdriverWrench} className="text-alt-green/50 text-base" title="Workshop Craftable" />
 					)}
-					{recipe.inHand && <FontAwesomeIcon icon={faHand} className="text-alt-purple/50 text-base" title="Hand Craftable" />}
+					{recipe.inHand && <FontAwesomeIcon icon={faHand} className="text-alt-purple/50 text-base" title="Craftable" />}
 				</div>
-				<h2 className="text-center text-base font-bold w-fit leading-tight">{recipe.name}</h2>
+				<h2 className="text-center text-base font-bold w-fit leading-none">{recipe.name}</h2>
 				<div className="flex-1 whitespace-nowrap basis-1/5 text-[11px] font-medium italic items-center justify-end flex text-muted gap-1">
 					{primaryProducer && (
 						<>

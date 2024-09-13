@@ -1,6 +1,7 @@
 import Fraction from 'fraction.js'
 
 import data from '@/data/output.json'
+import { IAnyRecipeSchema } from '@/scripts/bin/schema/IRecipeSchema'
 
 // TODO Make all of these static data
 
@@ -35,4 +36,33 @@ export const calculateProductionRate = (amount: number, duration: number, liquid
 		perCycle: amt,
 		perCycleLabel: liquid ? 'm³' : 'x',
 	}
+}
+
+const sortRecipes = (recipes: IAnyRecipeSchema[]) =>
+	recipes.sort((a, b) => {
+		const aAlt = a.name.includes('Alternate')
+		const bAlt = b.name.includes('Alternate')
+
+		if (aAlt && bAlt) {
+			if (a.name > b.name) return 1
+			if (b.name > a.name) return -1
+			return 0
+		}
+
+		if (aAlt && !bAlt) return 1
+		if (!aAlt && bAlt) return -1
+
+		if (a.name > b.name) return 1
+		if (b.name > a.name) return -1
+
+		return 0
+	})
+
+export const getRecipesForItem = (item: string) => {
+	return Object.values(data.recipes).reduce((acc: IAnyRecipeSchema[], recipe) => {
+		if (recipe?.products.some(x => x.item === item)) {
+			acc.push(recipe as IAnyRecipeSchema)
+		}
+		return sortRecipes(acc)
+	}, [])
 }
