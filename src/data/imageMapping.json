@@ -1,0 +1,4670 @@
+{
+	"Desc_NuclearWaste_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NuclearWaste/UI/IconDesc_NuclearWaste_256.png",
+		"short": "IconDesc_NuclearWaste_256.png"
+	},
+	"Desc_PlutoniumWaste_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NuclearWaste/UI/IconDesc_PlutoniumWaste_256.png",
+		"short": "IconDesc_PlutoniumWaste_256.png"
+	},
+	"Desc_Cement_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Cement/UI/IconDesc_Concrete_256.png",
+		"short": "IconDesc_Concrete_256.png"
+	},
+	"Desc_Silica_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Silica/UI/IconDesc_Silica_256.png",
+		"short": "IconDesc_Silica_256.png"
+	},
+	"Desc_IronPlate_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IronPlate/UI/IconDesc_IronPlates_256.png",
+		"short": "IconDesc_IronPlates_256.png"
+	},
+	"Desc_SteelPlate_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SteelPlate/UI/IconDesc_SteelBeam_256.png",
+		"short": "IconDesc_SteelBeam_256.png"
+	},
+	"Desc_AluminumIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AluminumIngot/UI/IconDesc_AluminiumIngot_256.png",
+		"short": "IconDesc_AluminiumIngot_256.png"
+	},
+	"Desc_Battery_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Battery/UI/IconDesc_Battery_256.png",
+		"short": "IconDesc_Battery_256.png"
+	},
+	"Desc_Fuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Fuel/UI/IconDesc_Fuel_256.png",
+		"short": "IconDesc_Fuel_256.png"
+	},
+	"Desc_PackagedIonizedFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IonizedFuel/UI/IconDesc_IonizedRocketFuel_256.png",
+		"short": "IconDesc_IonizedRocketFuel_256.png"
+	},
+	"Desc_PackagedRocketFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/RocketFuel/UI/IconDesc_PackagedRocketFuel_256.png",
+		"short": "IconDesc_PackagedRocketFuel_256.png"
+	},
+	"Desc_TurboFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Turbofuel/UI/IconDesc_TurboFuel_256.png",
+		"short": "IconDesc_TurboFuel_256.png"
+	},
+	"Desc_HazmatFilter_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IodineInfusedFilter/UI/IconDesc_HazmatFilter_256.png",
+		"short": "IconDesc_HazmatFilter_256.png"
+	},
+	"Desc_CompactedCoal_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CompactedCoal/UI/IconDesc_CompactedCoal_256.png",
+		"short": "IconDesc_CompactedCoal_256.png"
+	},
+	"Desc_PackagedOilResidue_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/CrudeOil/UI/OilResidue_256.png",
+		"short": "OilResidue_256.png"
+	},
+	"Desc_PetroleumCoke_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PetroleumCoke/UI/IconDesc_PetroleumCoke_256.png",
+		"short": "IconDesc_PetroleumCoke_256.png"
+	},
+	"Desc_PackagedOil_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/CrudeOil/UI/Oil_256.png",
+		"short": "Oil_256.png"
+	},
+	"Desc_IronRod_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IronRod/UI/IconDesc_IronRods_256.png",
+		"short": "IconDesc_IronRods_256.png"
+	},
+	"Desc_Wire_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Wire/UI/IconDesc_Wire_256.png",
+		"short": "IconDesc_Wire_256.png"
+	},
+	"Desc_Cable_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Cable/UI/IconDesc_Cables_256.png",
+		"short": "IconDesc_Cables_256.png"
+	},
+	"Desc_IronIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IronIngot/UI/IconDesc_IronIngot_256.png",
+		"short": "IconDesc_IronIngot_256.png"
+	},
+	"Desc_IronPlateReinforced_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IronPlateReinforced/UI/IconDesc_ReinforcedIronPlates_256.png",
+		"short": "IconDesc_ReinforcedIronPlates_256.png"
+	},
+	"Desc_Rotor_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Rotor/UI/IconDesc_Rotor_256.png",
+		"short": "IconDesc_Rotor_256.png"
+	},
+	"Desc_LiquidFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Fuel/UI/IconDesc_LiquidFuel_Pipe_256.png",
+		"short": "IconDesc_LiquidFuel_Pipe_256.png"
+	},
+	"Desc_RocketFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/RocketFuel/UI/IconDesc_RocketFuelPipe_256.png",
+		"short": "IconDesc_RocketFuelPipe_256.png"
+	},
+	"Desc_CopperSheet_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CopperSheet/UI/IconDesc_CopperSheet_256.png",
+		"short": "IconDesc_CopperSheet_256.png"
+	},
+	"Desc_ModularFrame_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ModularFrame/UI/IconDesc_ModularFrame_256.png",
+		"short": "IconDesc_ModularFrame_256.png"
+	},
+	"Desc_IronScrew_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IronScrew/UI/IconDesc_IronScrews_256.png",
+		"short": "IconDesc_IronScrews_256.png"
+	},
+	"Desc_NitricAcid_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NitricAcid/UI/IconDesc_NitricAcid_256.png",
+		"short": "IconDesc_NitricAcid_256.png"
+	},
+	"Desc_LiquidTurboFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Turbofuel/UI/IconDesc_LiquidTurboFuel_Pipe_256.png",
+		"short": "IconDesc_LiquidTurboFuel_Pipe_256.png"
+	},
+	"Desc_GasTank_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GasTank/UI/IconDesc_PressureTank_256.png",
+		"short": "IconDesc_PressureTank_256.png"
+	},
+	"Desc_CrystalOscillator_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CrystalOscillator/UI/IconDesc_CrystalOscillator_256.png",
+		"short": "IconDesc_CrystalOscillator_256.png"
+	},
+	"Desc_Motor_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Motor/UI/IconDesc_Engine_256.png",
+		"short": "IconDesc_Engine_256.png"
+	},
+	"Desc_DarkMatter_C": {
+		"full": "Game/FactoryGame/Resource/Parts/TimeCrystal/UI/IconDesc_TimeCrystal_256.png",
+		"short": "IconDesc_TimeCrystal_256.png"
+	},
+	"Desc_IonizedFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/IonizedFuel/UI/IconDesc_IonizedFuel_256.png",
+		"short": "IconDesc_IonizedFuel_256.png"
+	},
+	"Desc_ComputerSuper_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ComputerQuantum/UI/IconDesc_QuantumComputer_256.png",
+		"short": "IconDesc_QuantumComputer_256.png"
+	},
+	"Desc_CoolingSystem_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CoolingSystem/UI/IconDesc_CoolingSystem_256.png",
+		"short": "IconDesc_CoolingSystem_256.png"
+	},
+	"Desc_FicsiteMesh_C": {
+		"full": "Game/FactoryGame/Resource/Parts/FicsiteMesh/UI/IconDesc_FicsiteMesh_256.png",
+		"short": "IconDesc_FicsiteMesh_256.png"
+	},
+	"Desc_MotorLightweight_C": {
+		"full": "Game/FactoryGame/Resource/Parts/TurboMotor/UI/IconDesc_TurboMotor_256.png",
+		"short": "IconDesc_TurboMotor_256.png"
+	},
+	"Desc_TimeCrystal_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ExoticMatter/UI/IconDesc_ExoticMatter_256.png",
+		"short": "IconDesc_ExoticMatter_256.png"
+	},
+	"Desc_DarkEnergy_C": {
+		"full": "Game/FactoryGame/Resource/Parts/DarkEnergy/UI/IconDesc_DarkEnergy_256.png",
+		"short": "IconDesc_DarkEnergy_256.png"
+	},
+	"Desc_SAMIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ReanimatedSAM/UI/IconDesc_ReanimatedSam_256.png",
+		"short": "IconDesc_ReanimatedSam_256.png"
+	},
+	"Desc_QuantumEnergy_C": {
+		"full": "Game/FactoryGame/Resource/Parts/QuantumEnergy/IconDesc_QuantumEnergy_256.png",
+		"short": "IconDesc_QuantumEnergy_256.png"
+	},
+	"Desc_Diamond_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Diamond/UI/IconDesc_Diamonds_256.png",
+		"short": "IconDesc_Diamonds_256.png"
+	},
+	"Desc_AluminumPlate_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AluminumPlate/UI/IconDesc_AluminiumSheet_256.png",
+		"short": "IconDesc_AluminiumSheet_256.png"
+	},
+	"Desc_QuantumOscillator_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SuperpositionOscillator/UI/IconDesc_SuperPositionOscillator_256.png",
+		"short": "IconDesc_SuperPositionOscillator_256.png"
+	},
+	"Desc_TemporalProcessor_C": {
+		"full": "Game/FactoryGame/Resource/Parts/TemporalProcessor/UI/IconDesc_TemporalProcessor_256.png",
+		"short": "IconDesc_TemporalProcessor_256.png"
+	},
+	"Desc_SpaceElevatorPart_12_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AIExpansion/_UI/IconDesc_AIExpension_256.png",
+		"short": "IconDesc_AIExpension_256.png"
+	},
+	"Desc_SpaceElevatorPart_6_C": {
+		"full": "Game/FactoryGame/Resource/Parts/MagneticFieldGenerator/UI/IconDesc_MagneticFieldGenerator_256.png",
+		"short": "IconDesc_MagneticFieldGenerator_256.png"
+	},
+	"Desc_SAMFluctuator_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SAMFluctuator/UI/IconDesc_SamFluctuator_256.png",
+		"short": "IconDesc_SamFluctuator_256.png"
+	},
+	"Desc_SteelPipe_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SteelPipe/UI/IconDesc_SteelPipe_256.png",
+		"short": "IconDesc_SteelPipe_256.png"
+	},
+	"Desc_ModularFrameFused_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ModularFrameFused/UI/IconDesc_FusedModularFrame_256.png",
+		"short": "IconDesc_FusedModularFrame_256.png"
+	},
+	"Desc_ModularFrameLightweight_C": {
+		"full": "Game/FactoryGame/Resource/Parts/RadioControlUnit/UI/IconDesc_RadioControlUnit_256.png",
+		"short": "IconDesc_RadioControlUnit_256.png"
+	},
+	"Desc_FicsiteIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/FicsiteIngot/UI/IconDesc_FicsiteIngot_256.png",
+		"short": "IconDesc_FicsiteIngot_256.png"
+	},
+	"Desc_SpaceElevatorPart_10_C": {
+		"full": "Game/FactoryGame/Resource/Parts/BiochemicalSculptor/UI/IconDesc_BiochemicalSculptor_256.png",
+		"short": "IconDesc_BiochemicalSculptor_256.png"
+	},
+	"Desc_SpaceElevatorPart_7_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AssemblyControlUnit/UI/IconDesc_AssemblyDirectorSystem_256.png",
+		"short": "IconDesc_AssemblyDirectorSystem_256.png"
+	},
+	"Desc_GoldIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GoldIngot/UI/IconDesc_CateriumIngot_256.png",
+		"short": "IconDesc_CateriumIngot_256.png"
+	},
+	"Desc_FluidCanister_C": {
+		"full": "Game/FactoryGame/Resource/Parts/FluidCanister/UI/IconDesc_EmptyCannister_256.png",
+		"short": "IconDesc_EmptyCannister_256.png"
+	},
+	"Desc_CircuitBoard_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CircuitBoard/UI/IconDesc_CircuitBoard_256.png",
+		"short": "IconDesc_CircuitBoard_256.png"
+	},
+	"Desc_Plastic_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Plastic/UI/IconDesc_Plastic_256.png",
+		"short": "IconDesc_Plastic_256.png"
+	},
+	"Desc_SteelPlateReinforced_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SteelPlateReinforced/UI/IconDesc_EncasedSteelBeam_256.png",
+		"short": "IconDesc_EncasedSteelBeam_256.png"
+	},
+	"Desc_Rubber_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Rubber/UI/IconDesc_Rubber_256.png",
+		"short": "IconDesc_Rubber_256.png"
+	},
+	"Desc_PolymerResin_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PolymerResin/UI/IconDesc_PolymerResin_256.png",
+		"short": "IconDesc_PolymerResin_256.png"
+	},
+	"Desc_HeavyOilResidue_C": {
+		"full": "Game/FactoryGame/Resource/Parts/HeavyOilResidue/UI/IconDesc_LiquidHeavyOilResidue_Pipe_256.png",
+		"short": "IconDesc_LiquidHeavyOilResidue_Pipe_256.png"
+	},
+	"Desc_QuartzCrystal_C": {
+		"full": "Game/FactoryGame/Resource/Parts/QuartzCrystal/UI/IconDesc_QuartzResource_256.png",
+		"short": "IconDesc_QuartzResource_256.png"
+	},
+	"Desc_SteelIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SteelIngot/UI/IconDesc_SteelIngot_256.png",
+		"short": "IconDesc_SteelIngot_256.png"
+	},
+	"Desc_SpaceElevatorPart_2_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Skeletalframework/UI/IconDesc_SpelevatorPart_2_256.png",
+		"short": "IconDesc_SpelevatorPart_2_256.png"
+	},
+	"Desc_PackagedWater_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PackagedWater/UI/IconDesc_PackagedWater_256.png",
+		"short": "IconDesc_PackagedWater_256.png"
+	},
+	"Desc_CopperIngot_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CopperIngot/UI/IconDesc_CopperIngot_256.png",
+		"short": "IconDesc_CopperIngot_256.png"
+	},
+	"Desc_AluminumScrap_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AluminumScrap/UI/IconDesc_AluminiumScrap_256.png",
+		"short": "IconDesc_AluminiumScrap_256.png"
+	},
+	"Desc_AluminumCasing_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AluminumCasing/UI/IconDesc_AluminiumCasing_256.png",
+		"short": "IconDesc_AluminiumCasing_256.png"
+	},
+	"Desc_AluminaSolution_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Alumina/UI/LiquidAlumina_Pipe_256.png",
+		"short": "LiquidAlumina_Pipe_256.png"
+	},
+	"Desc_Computer_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Computer/UI/IconDesc_Computer_256.png",
+		"short": "IconDesc_Computer_256.png"
+	},
+	"Desc_ModularFrameHeavy_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ModularFrameHeavy/UI/IconDesc_ModularFrameHeavy_256.png",
+		"short": "IconDesc_ModularFrameHeavy_256.png"
+	},
+	"Desc_SpaceElevatorPart_1_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SmartPlate/UI/IconDesc_SpelevatorPart_1_256.png",
+		"short": "IconDesc_SpelevatorPart_1_256.png"
+	},
+	"Desc_HighSpeedConnector_C": {
+		"full": "Game/FactoryGame/Resource/Parts/HighSpeedConnector/UI/IconDesc_HighSpeedConnector_256.png",
+		"short": "IconDesc_HighSpeedConnector_256.png"
+	},
+	"Desc_SpaceElevatorPart_3_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AutomatedWiring/UI/SpelevatorPart_3_256.png",
+		"short": "SpelevatorPart_3_256.png"
+	},
+	"Desc_Stator_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Stator/UI/IconDesc_Stator_256.png",
+		"short": "IconDesc_Stator_256.png"
+	},
+	"Desc_CircuitBoardHighSpeed_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AIlimiter/UI/IconDesc_AILimiter_256.png",
+		"short": "IconDesc_AILimiter_256.png"
+	},
+	"Desc_HighSpeedWire_C": {
+		"full": "Game/FactoryGame/Resource/Parts/HighSpeedWire/UI/IconDesc_Quickwire_256.png",
+		"short": "IconDesc_Quickwire_256.png"
+	},
+	"Desc_SpaceElevatorPart_4_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ModularEngine/UI/IconDesc_SpelevatorPart_4_256.png",
+		"short": "IconDesc_SpelevatorPart_4_256.png"
+	},
+	"Desc_SpaceElevatorPart_5_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ControlSystem/UI/IconDesc_SpelevatorPart_5_256.png",
+		"short": "IconDesc_SpelevatorPart_5_256.png"
+	},
+	"Desc_PressureConversionCube_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PressureConversionCube/UI/IconDesc_ConversionCube_256.png",
+		"short": "IconDesc_ConversionCube_256.png"
+	},
+	"Desc_PlutoniumCell_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PlutoniumCell/UI/IconDesc_EncasedPlutoniumCell_256.png",
+		"short": "IconDesc_EncasedPlutoniumCell_256.png"
+	},
+	"Desc_PlutoniumPellet_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PlutoniumPellet/UI/IconDesc_PlutoniumPellet_256.png",
+		"short": "IconDesc_PlutoniumPellet_256.png"
+	},
+	"Desc_NonFissibleUranium_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Non-FissibleUranium/UI/IconDesc_NonFissileUranium_256.png",
+		"short": "IconDesc_NonFissileUranium_256.png"
+	},
+	"Desc_SulfuricAcid_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SulfuricAcid/UI/IconDesc_LiquidSulfuricAcid_Pipe_256.png",
+		"short": "IconDesc_LiquidSulfuricAcid_Pipe_256.png"
+	},
+	"Desc_CopperDust_C": {
+		"full": "Game/FactoryGame/Resource/Parts/CopperDust/UI/IconDesc_CopperDust_256.png",
+		"short": "IconDesc_CopperDust_256.png"
+	},
+	"Desc_AluminumPlateReinforced_C": {
+		"full": "Game/FactoryGame/Resource/Parts/HeatSink/UI/IconDesc_Heatsink_256.png",
+		"short": "IconDesc_Heatsink_256.png"
+	},
+	"Desc_ElectromagneticControlRod_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ElectromagneticControlRod/UI/IconDesc_ElectromagneticControlRod_256.png",
+		"short": "IconDesc_ElectromagneticControlRod_256.png"
+	},
+	"Desc_SpaceElevatorPart_9_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NuclearPasta/UI/IconDesc_NuclearPasta_256.png",
+		"short": "IconDesc_NuclearPasta_256.png"
+	},
+	"Desc_UraniumCell_C": {
+		"full": "Game/FactoryGame/Resource/Parts/UraniumCell/UI/IconDesc_NuclearCell_256.png",
+		"short": "IconDesc_NuclearCell_256.png"
+	},
+	"Desc_DissolvedSilica_C": {
+		"full": "Game/FactoryGame/Resource/Parts/DissolvedSilica/UI/IconDesc_DissolvedSilica_256.png",
+		"short": "IconDesc_DissolvedSilica_256.png"
+	},
+	"Desc_SpaceElevatorPart_8_C": {
+		"full": "Game/FactoryGame/Resource/Parts/ThermalAntimatterPropulsionRocket/UI/IconDesc_ThermalPropulsionRocket_256.png",
+		"short": "IconDesc_ThermalPropulsionRocket_256.png"
+	},
+	"Desc_Gunpowder_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GunPowder/UI/IconDesc_Gunpowder_256.png",
+		"short": "IconDesc_Gunpowder_256.png"
+	},
+	"Desc_Ficsonium_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Ficsonium/UI/IconDesc_FicsoniumCell_256.png",
+		"short": "IconDesc_FicsoniumCell_256.png"
+	},
+	"Desc_SingularityCell_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SingularityCell/UI/IconDesc_SingularityCell_256.png",
+		"short": "IconDesc_SingularityCell_256.png"
+	},
+	"Desc_SpaceElevatorPart_11_C": {
+		"full": "Game/FactoryGame/Resource/Parts/BallisticWarpdrive/UI/IconDesc_BallisticWarpDrive_256.png",
+		"short": "IconDesc_BallisticWarpDrive_256.png"
+	},
+	"Desc_Filter_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Filter/UI/IconDesc_GasMaskFilter_256.png",
+		"short": "IconDesc_GasMaskFilter_256.png"
+	},
+	"Desc_AlienProtein_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AlienProtein/UI/IconDesc_AlienProtein_256.png",
+		"short": "IconDesc_AlienProtein_256.png"
+	},
+	"Desc_Crystal_C": {
+		"full": "Game/FactoryGame/Resource/Environment/Crystal/UI/PowerSlugGreen_256.png",
+		"short": "PowerSlugGreen_256.png"
+	},
+	"Desc_AlienDNACapsule_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AlienDNACapsule/UI/IconDesc_AlienDNA_256.png",
+		"short": "IconDesc_AlienDNA_256.png"
+	},
+	"Desc_WAT2_C": {
+		"full": "Game/FactoryGame/Prototype/WAT/UI/Wat_2_256.png",
+		"short": "Wat_2_256.png"
+	},
+	"Desc_Crystal_mk3_C": {
+		"full": "Game/FactoryGame/Resource/Environment/Crystal/UI/PowerSlugPurple_256.png",
+		"short": "PowerSlugPurple_256.png"
+	},
+	"Desc_Crystal_mk2_C": {
+		"full": "Game/FactoryGame/Resource/Environment/Crystal/UI/PowerSlugYellow_256.png",
+		"short": "PowerSlugYellow_256.png"
+	},
+	"Desc_GunpowderMK2_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GunPowder/UI/IconDesc_GunpowderMk2_256.png",
+		"short": "IconDesc_GunpowderMk2_256.png"
+	},
+	"Desc_XmasStar_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Star_256.png",
+		"short": "IconDesc_Star_256.png"
+	},
+	"Desc_XmasBallCluster_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Balls_256.png",
+		"short": "IconDesc_Balls_256.png"
+	},
+	"Desc_XmasWreath_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Wreath_256.png",
+		"short": "IconDesc_Wreath_256.png"
+	},
+	"Desc_CandyCane_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_CanePart_256.png",
+		"short": "IconDesc_CanePart_256.png"
+	},
+	"Desc_Snow_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Snow_256.png",
+		"short": "IconDesc_Snow_256.png"
+	},
+	"Desc_XmasBow_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Bow_256.png",
+		"short": "IconDesc_Bow_256.png"
+	},
+	"Desc_XmasBall3_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_XmasBall_Yellow_256.png",
+		"short": "IconDesc_XmasBall_Yellow_256.png"
+	},
+	"Desc_XmasBall4_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_XmasBall_Silver_256.png",
+		"short": "IconDesc_XmasBall_Silver_256.png"
+	},
+	"Desc_XmasBranch_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Branch_256.png",
+		"short": "IconDesc_Branch_256.png"
+	},
+	"Desc_XmasBall1_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_XmasBall_Red_256.png",
+		"short": "IconDesc_XmasBall_Red_256.png"
+	},
+	"Desc_XmasBall2_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_XmasBall_Blue_256.png",
+		"short": "IconDesc_XmasBall_Blue_256.png"
+	},
+	"Desc_Gift_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_Gift_256.png",
+		"short": "IconDesc_Gift_256.png"
+	},
+	"ResourceSink_CyberWagon_Unlock_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Checkmark_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_2-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_3-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_4_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_RocketFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_RocketFuel_Nitro_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_9-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_IonizedFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_IonizedFuel_Dark_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_9-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_EnrichedCoal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-1-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_TurboFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_TurboFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Diamond_Turbo_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Diamond_Pink_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Diamond_Petroleum_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Diamond_OilBased_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Diamond_Cloudy_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_DarkMatter_Trap_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_DarkMatter_Crystallization_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_WetConcrete_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_TurboHeavyFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_3-4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelRod_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-4-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelCanister_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteamedCopperSheet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_RubberConcrete_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_RecycledRubber_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_1_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PureQuartzCrystal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PureIronIngot_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PureCopperIngot_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PureCateriumIngot_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-1-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PureAluminumIngot_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PolymerResin_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PlasticSmartPlating_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_4-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_4_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HighSpeedWiring_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HeavyOilResidue_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HeavyFlexibleFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_FusedWire_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_FlexibleFramework_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ElectrodeCircuitBoard_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ElectroAluminumScrap_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_DilutedPackagedFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_2-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CopperRotor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CopperAlloyIngot_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CokeSteelIngot_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CoatedIronPlate_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CoatedIronCanister_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CoatedCable_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_BoltedFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_AdheredIronPlate_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-5-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_TurboPressureMotor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-4-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_TurboBlendFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SuperStateComputer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SloppyAlumina_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_RadioControlSystem_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_PlutoniumFuelUnit_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-2-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_OCSupercomputer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_InstantScrap_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_InstantPlutoniumCell_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HeatFusedFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_FertileUranium_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ElectricMotor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_DilutedFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CoolingDevice_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ClassicBattery_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_AutomatedMiner_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_AlcladCasing_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelPipe_Molded_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelPipe_Iron_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelCastedPlate_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelBeam_Molded_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_SteelBeam_Aluminum_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_AluminumRod_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_AILimiter_Plastic_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Silica_Distilled_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Quartz_Purified_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Quartz_Fused_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_IronIngot_Leached_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_IronIngot_Basic_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CopperIngot_Tempered_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CopperIngot_Leached_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CateriumIngot_Tempered_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CateriumIngot_Leached_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Wire2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Wire1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_UraniumCell1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_TurboMotor1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Stator_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_1_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Silica_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Screw2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Screw_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Rotor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ReinforcedSteelPlate_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ReinforcedIronPlate2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ReinforcedIronPlate1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_3_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_RadioControlUnit1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Quickwire_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Plastic1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_NuclearFuelRod1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Motor1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ModularFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_IngotSteel2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_IngotSteel1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_IngotIron_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HighSpeedConnector_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HeavyModularFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_HeatSink1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Gunpowder1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_ElectromagneticControlRod1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CrystalOscillator_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Concrete_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Computer2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Computer1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Coal2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Coal1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CircuitBoard2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_CircuitBoard1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Cable2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_Cable1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_InventorySlots2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Alternate_InventorySlots1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Helmet_Beta_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_9-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_9-4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_9-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_8-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_7-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_6-7_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_6-6_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_6-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_6-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_6-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_6-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-5-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_5-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_4-5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_4-4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_4-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_4-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_3-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_3-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_2-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_2-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_ACarapace_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AOrgans_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_Somersloop_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Nutrients_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_PowerSlugs_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_PowerSlugs_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_HardDrive_0_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_1-3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_1-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_1-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AO_Stinger_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AO_Pre_Rebar_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AO_Hatcher_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AO_DNACapsule_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AOrgans_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AOrgans_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AOrgans_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AOrganisms_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_AOrganisms_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_ACarapace_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_ACarapace_2_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_ACarapace_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_ACarapace_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_SAMFluctuator_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_SAM_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_ProductionBooster_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_BoosterFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_PowerBooster_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_MercerSphere_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralUploadBoost_04_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralUploadBoost_03_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralUploadBoost_02_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralUploadBoost_01_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralStorage_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralStackExpansion_04_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralStackExpansion_03_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralStackExpansion_02_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralStackExpansion_01_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_CentralInventory_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_BoosterBlocker_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Alien_ActiveSAM_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_7_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_7_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_6_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_6_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_5_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_4_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_4_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_4_1_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_4_1_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_3_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_3_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_2_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Caterium_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_GasMask_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_8_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_7_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Nutrients_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_6_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_2_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Mycelia_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Nutrients_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Nutrients_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Nutrients_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_PowerSlugs_6_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_PowerSlugs_5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_PowerSlugs_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_PowerSlugs_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_3_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_3_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Quartz_2_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_ExperimentalPower_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_CompactedCoal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_6_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_5_2_Hidden_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_5_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_5_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_4_2_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_4_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_4_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_3_2_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_3_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_3_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_Sulfur_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_4-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_4-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_3-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_3-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_2-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_2-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_1-2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Research_XMas_1-1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_ConcreteWallMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_SteelWallMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Diagonal_Down_Wallset_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Diagonal_Up_WallSet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_DoorWalls_Normal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FactoryRailing_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FactoryFence_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FrameworkFoundations_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FoudationPillar_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_Asphalt_FoundationMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_DiagonalRamps_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_Concrete_FoundationMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FoundationExpansionPack_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_GripMetal_FoundationMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_InvertedCornerRamps_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_PolishedConcrete_FoundationMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_InvertedRampPack_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Ladders_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Walkways_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CurvedFoundationPack_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FactoryCart_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CyberWagon_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HalfFoundations_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_QuarterPipeExtensions_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FoundationStairs_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_WindowedWalls_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_GateWalls_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Tilted_Walls_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ConveryWalls_Normal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ConveyorWallMount_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ConveyorCeilingMount_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HyperTubeWallAttachements_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PipelineWallAttachments_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PipelineFloorHole_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_WallPowerPoles_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_WallPowerPolesMK2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_WallPowerPolesMK3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CeilingLight_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_LightTower_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StreetLight_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Statue_Hoggo_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StatueLizardDoggo_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StatueSpaceGiraffe_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StatueBronzePioneer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StatueGoldPioneer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StatueSilverPioneer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_StatueGoldenNut_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_GlassRoofMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Roofs_Basic_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Roofs_Corners_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_SteelRoofMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Customizer_TarRoofMaterial_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_NoIndicator_PipelineMK2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_NoIndicator_PipelineMK1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_MedicalBoxSkin_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_LightControlPanel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_LabelSigns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HyperTubeFloorHole_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HazardBoxSkin_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_GoldenCup_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_GoldenCart_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FrameWindows_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FramePillarSet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Fences_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FactoryBarrier2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FactoryBarrier_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_DisplaySigns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ConveyorLiftHole_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ConcretePillarSet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Catwalks_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Boombox_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_BillboardSigns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_BeamSet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Purchasable_HardDrive_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RifleAmmoTurbo_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RifleAmmoHoming_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RebarStun_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RebarShatter_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RebarExplosive_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RadiationFilters_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_NobeliskPulse_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_NobeliskGas_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_NobeliskCluster_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HealthPack_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_GasFilters_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Explosives_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CoffeeCup_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_AmmoPack_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_AdvancedAmmoPack_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Wire_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Screw_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Rod_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_QuartzCrystal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Plate_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Concrete_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Cable_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Biomass_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Rotor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ReinforcedIronPlate_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Quickwire_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ModularFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Fabric_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CopperSheet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Biofuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_AILimiter_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_SteelPipe_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_SteelBeam_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_BlackPowder_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Stator_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_EncasedIndustrialBeam_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CompactedCoal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_SmokelessPowder_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Rubber_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Plastic_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PetroleumCoke_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Motor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HighSpeedConnector_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_EmptyCanister_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CrystalOscillator_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CircuitBoard_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PolymerResin_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PackagedTurboFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PackagedFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PackagedBiofuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HeavyModularFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Computer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_TurboMotor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_SuperComputer_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Silica_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RadioControlUnit_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_HeatSink_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Battery_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_AluminumCasing_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_AlcladSheet_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_PressureConversionCube_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FusedModularFrame_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_EmptyFluidTank_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_ElectromagneticControlRod_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CopperPowder_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CoolingSystem_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_TimeCrystal_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_SyntheticPowerShard_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_SuperPositionOscillator_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_RocketFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_NeuralQuantumProcessor_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_IonizedFuel_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FicsiteTrigon_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Zones_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_UnPainted_PaintFinish_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Pathways_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Number_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_IconsTransport_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_IconsFactory_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_FullLines_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_DotLines_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Copper_PaintFinish_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Chrome_PaintFinish_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Caterium_PaintFinish_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_CarbonSteel_PaintFinish_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"ResourceSink_Arrows_FoundationPatterns_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"CBG_PatternRemoval_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_SongsOfConquest_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Sanctum2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Sanctum_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_LeMichael_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_JoelSyntholm_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Huntdown_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Goat_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_DeepRockGalactic_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_AbsoluteFicsit_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Tutorial1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Tutorial1_5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Tutorial2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Tutorial3_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Tutorial4_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Schematic_Tutorial5_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Ficsmas_Schematic_SkinBundle_2_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Ficsmas_Schematic_SkinBundle_1_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Ficsmas_Schematic_Fireworks_C": {
+		"full": "/Script/Engine.png",
+		"short": "Engine.png"
+	},
+	"Desc_Wall_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_ConcWall8x1_512.png",
+		"short": "IconDesc_ConcWall8x1_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_ConcWall8x4_512.png",
+		"short": "IconDesc_ConcWall8x4_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_ConveyorHole_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/IconDesc_WallConcCovHole1_512.png",
+		"short": "IconDesc_WallConcCovHole1_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_ConveyorHole_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/IconDesc_WallConcCovHole2_512.png",
+		"short": "IconDesc_WallConcCovHole2_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_ConveyorHole_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/IconDesc_WallConcCovHole3_512.png",
+		"short": "IconDesc_WallConcCovHole3_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Triangle/IconDesc_ConcTriangleWall4m_512.png",
+		"short": "IconDesc_ConcTriangleWall4m_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Corner_2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/Inwards/IconDesc_ConcWallInwards_8x4_512.png",
+		"short": "IconDesc_ConcWallInwards_8x4_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Window_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_ConcWallWindow01_512.png",
+		"short": "IconDesc_ConcWallWindow01_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Window_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_ConcWallWindow02_512.png",
+		"short": "IconDesc_ConcWallWindow02_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Window_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_ConcWallWindow03_512.png",
+		"short": "IconDesc_ConcWallWindow03_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Window_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_ConcWallWindow04_512.png",
+		"short": "IconDesc_ConcWallWindow04_512.png"
+	},
+	"Desc_Wall_Concrete_8x8_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Triangle/IconDesc_ConcTriangleWall8m_512.png",
+		"short": "IconDesc_ConcTriangleWall8m_512.png"
+	},
+	"Desc_Wall_Concrete_8x8_Corner_2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/Inwards/IconDesc_ConcWallInwards_8x8_512.png",
+		"short": "IconDesc_ConcWallInwards_8x8_512.png"
+	},
+	"Desc_Wall_Concrete_Angular_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/IconDesc_ConcAngWall4m_512.png",
+		"short": "IconDesc_ConcAngWall4m_512.png"
+	},
+	"Desc_Wall_Concrete_Angular_8x8_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/IconDesc_ConcAngWall8m_512.png",
+		"short": "IconDesc_ConcAngWall8m_512.png"
+	},
+	"Desc_Wall_Concrete_CDoor_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_ConcreteCenterDoor_512.png",
+		"short": "IconDesc_ConcreteCenterDoor_512.png"
+	},
+	"Desc_Wall_Concrete_8x1_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_ConcDownDiag1m_512.png",
+		"short": "IconDesc_ConcDownDiag1m_512.png"
+	},
+	"Desc_Wall_Concrete_8x2_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_ConcDownDiag2m_512.png",
+		"short": "IconDesc_ConcDownDiag2m_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_ConcDownDiag4m_512.png",
+		"short": "IconDesc_ConcDownDiag4m_512.png"
+	},
+	"Desc_Wall_Concrete_8x8_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_ConcDownDiag8m_512.png",
+		"short": "IconDesc_ConcDownDiag8m_512.png"
+	},
+	"Desc_Wall_Concrete_Gate_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_ConcreteGate_512.png",
+		"short": "IconDesc_ConcreteGate_512.png"
+	},
+	"Desc_Wall_Concrete_SDoor_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_ConcreteSideDoor_512.png",
+		"short": "IconDesc_ConcreteSideDoor_512.png"
+	},
+	"Desc_Wall_Concrete_8x1_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_ConcUpDiag1m_512.png",
+		"short": "IconDesc_ConcUpDiag1m_512.png"
+	},
+	"Desc_Wall_Concrete_8x2_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_ConcUpDiag2m_512.png",
+		"short": "IconDesc_ConcUpDiag2m_512.png"
+	},
+	"Desc_Wall_Concrete_8x4_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_ConcUpDiag4m_512.png",
+		"short": "IconDesc_ConcUpDiag4m_512.png"
+	},
+	"Desc_Wall_Concrete_8x8_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_ConcUpDiag8m_512.png",
+		"short": "IconDesc_ConcUpDiag8m_512.png"
+	},
+	"Desc_Wall_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_FicsitWall8x4_512.png",
+		"short": "IconDesc_FicsitWall8x4_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/Wall_Conveyor_x3_Orange_512.png",
+		"short": "Wall_Conveyor_x3_Orange_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/Wall_Conveyor_x2_Orange_512.png",
+		"short": "Wall_Conveyor_x2_Orange_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/Wall_Conveyor_x1_Orange_512.png",
+		"short": "Wall_Conveyor_x1_Orange_512.png"
+	},
+	"Desc_Wall_Door_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_FicsitCenterDoor_512.png",
+		"short": "IconDesc_FicsitCenterDoor_512.png"
+	},
+	"Desc_Wall_Door_8x4_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_FicsitSideDoor_512.png",
+		"short": "IconDesc_FicsitSideDoor_512.png"
+	},
+	"Desc_Wall_Gate_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_FicsitGate_512.png",
+		"short": "IconDesc_FicsitGate_512.png"
+	},
+	"Desc_Wall_Orange_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_FicsitWall8x1_512.png",
+		"short": "IconDesc_FicsitWall8x1_512.png"
+	},
+	"Desc_Wall_Orange_8x4_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Triangle/IconDesc_FicsitTriangleWall4m_512.png",
+		"short": "IconDesc_FicsitTriangleWall4m_512.png"
+	},
+	"Desc_Wall_Orange_8x4_Corner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/Inwards/IconDesc_FICSITWallInwards_8x4_512.png",
+		"short": "IconDesc_FICSITWallInwards_8x4_512.png"
+	},
+	"Desc_Wall_Orange_8x8_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Triangle/IconDesc_FicsitTriangleWall8m_512.png",
+		"short": "IconDesc_FicsitTriangleWall8m_512.png"
+	},
+	"Desc_Wall_Orange_8x8_Corner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/Inwards/IconDesc_FICSITWallInwards_8x8_512.png",
+		"short": "IconDesc_FICSITWallInwards_8x8_512.png"
+	},
+	"Desc_Wall_Orange_Angular_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/IconDesc_FicsitAngWall4m_512.png",
+		"short": "IconDesc_FicsitAngWall4m_512.png"
+	},
+	"Desc_Wall_Orange_Angular_8x8_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/IconDesc_FicsitAngWall8m_512.png",
+		"short": "IconDesc_FicsitAngWall8m_512.png"
+	},
+	"Desc_Wall_Orange_8x1_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_FicsitDownDiag1m_512.png",
+		"short": "IconDesc_FicsitDownDiag1m_512.png"
+	},
+	"Desc_Wall_Orange_8x2_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_FicsitDownDiag2m_512.png",
+		"short": "IconDesc_FicsitDownDiag2m_512.png"
+	},
+	"Desc_Wall_Orange_8x4_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_FicsitDownDiag4m_512.png",
+		"short": "IconDesc_FicsitDownDiag4m_512.png"
+	},
+	"Desc_Wall_Orange_8x8_FlipTris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_FicsitDownDiag8m_512.png",
+		"short": "IconDesc_FicsitDownDiag8m_512.png"
+	},
+	"Desc_Wall_Orange_8x1_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_FicsitUpDiag1m_512.png",
+		"short": "IconDesc_FicsitUpDiag1m_512.png"
+	},
+	"Desc_Wall_Orange_8x2_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_FicsitUpDiag2m_512.png",
+		"short": "IconDesc_FicsitUpDiag2m_512.png"
+	},
+	"Desc_Wall_Orange_8x4_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_FicsitUpDiag4m_512.png",
+		"short": "IconDesc_FicsitUpDiag4m_512.png"
+	},
+	"Desc_Wall_Orange_8x8_Tris_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_FicsitUpDiag8m_512.png",
+		"short": "IconDesc_FicsitUpDiag8m_512.png"
+	},
+	"Desc_Wall_Window_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/Wall_Window_8x4_01_512.png",
+		"short": "Wall_Window_8x4_01_512.png"
+	},
+	"Desc_Wall_Window_8x4_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/Wall_Window_8x4_02_512.png",
+		"short": "Wall_Window_8x4_02_512.png"
+	},
+	"Desc_Wall_Window_8x4_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/Wall_Window_8x4_03_512.png",
+		"short": "Wall_Window_8x4_03_512.png"
+	},
+	"Desc_Wall_Window_8x4_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/Wall_Window_8x4_04_512.png",
+		"short": "Wall_Window_8x4_04_512.png"
+	},
+	"Desc_SteelWall_8x4_Gate_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_SteelGate_512.png",
+		"short": "IconDesc_SteelGate_512.png"
+	},
+	"Desc_SteelWall_8x4_Window_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_SteelWallWindow01_512.png",
+		"short": "IconDesc_SteelWallWindow01_512.png"
+	},
+	"Desc_SteelWall_8x4_Window_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_SteelWindow02_512.png",
+		"short": "IconDesc_SteelWindow02_512.png"
+	},
+	"Desc_SteelWall_8x4_Window_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_SteelWIndow03_512.png",
+		"short": "IconDesc_SteelWIndow03_512.png"
+	},
+	"Desc_SteelWall_8x4_Window_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_SteelWindow04_512.png",
+		"short": "IconDesc_SteelWindow04_512.png"
+	},
+	"Desc_Wall_Steel_8x4_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Triangle/IconDesc_SteelTriangleWall4m_512.png",
+		"short": "IconDesc_SteelTriangleWall4m_512.png"
+	},
+	"Desc_Wall_Steel_8x4_Corner_2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/Inwards/IconDesc_SteelWallInwards_8x4_512.png",
+		"short": "IconDesc_SteelWallInwards_8x4_512.png"
+	},
+	"Desc_Wall_Steel_8x8_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Triangle/IconDesc_SteelTriangleWall8m_512.png",
+		"short": "IconDesc_SteelTriangleWall8m_512.png"
+	},
+	"Desc_Wall_Steel_8x8_Corner_2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/Inwards/IconDesc_SteelWallInwards_8x8_512.png",
+		"short": "IconDesc_SteelWallInwards_8x8_512.png"
+	},
+	"Desc_SteelWall_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_SteelWall8x1_512.png",
+		"short": "IconDesc_SteelWall8x1_512.png"
+	},
+	"Desc_SteelWall_FlipTris_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_SteelDownDiag1m_512.png",
+		"short": "IconDesc_SteelDownDiag1m_512.png"
+	},
+	"Desc_SteelWall_FlipTris_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_SteelDownDiag2m_512.png",
+		"short": "IconDesc_SteelDownDiag2m_512.png"
+	},
+	"Desc_SteelWall_FlipTris_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_SteelDownDiag4m_512.png",
+		"short": "IconDesc_SteelDownDiag4m_512.png"
+	},
+	"Desc_SteelWall_FlipTris_8x8_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/DownDiagonal/IconDesc_SteelDownDiag8m_512.png",
+		"short": "IconDesc_SteelDownDiag8m_512.png"
+	},
+	"Desc_SteelWall_Tris_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_SteelUpDiag1m_512.png",
+		"short": "IconDesc_SteelUpDiag1m_512.png"
+	},
+	"Desc_SteelWall_Tris_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_SteelUpDiag2m_512.png",
+		"short": "IconDesc_SteelUpDiag2m_512.png"
+	},
+	"Desc_SteelWall_Tris_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_SteelUpDiag4m_512.png",
+		"short": "IconDesc_SteelUpDiag4m_512.png"
+	},
+	"Desc_SteelWall_Tris_8x8_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/UpDiagonal/IconDesc_SteelUpDiag8m_512.png",
+		"short": "IconDesc_SteelUpDiag8m_512.png"
+	},
+	"Desc_Wall_8x4_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_SteelWall8x4_512.png",
+		"short": "IconDesc_SteelWall8x4_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_01_Steel_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/Wall_Conveyor_x3_Grey_512.png",
+		"short": "Wall_Conveyor_x3_Grey_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_02_Steel_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/Wall_Conveyor_x2_Grey_512.png",
+		"short": "Wall_Conveyor_x2_Grey_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_03_Steel_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/ConveyorHole/Wall_Conveyor_x1_Grey_512.png",
+		"short": "Wall_Conveyor_x1_Grey_512.png"
+	},
+	"Desc_Wall_Door_8x4_01_Steel_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_SteelCenterDoor_512.png",
+		"short": "IconDesc_SteelCenterDoor_512.png"
+	},
+	"Desc_Wall_Door_8x4_03_Steel_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Doors/IconDesc_SteelSideDoor_512.png",
+		"short": "IconDesc_SteelSideDoor_512.png"
+	},
+	"Desc_WallSet_Steel_Angular_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/IconDesc_SteelAngWall4m_512.png",
+		"short": "IconDesc_SteelAngWall4m_512.png"
+	},
+	"Desc_WallSet_Steel_Angular_8x8_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Angular/IconDesc_SteelAngWall8m_512.png",
+		"short": "IconDesc_SteelAngWall8m_512.png"
+	},
+	"Desc_Beam_C": {
+		"full": "Game/FactoryGame/Prototype/Buildable/Beams/UI/IconDesc_Beam_512.png",
+		"short": "IconDesc_Beam_512.png"
+	},
+	"Desc_Beam_Painted_C": {
+		"full": "Game/FactoryGame/Prototype/Buildable/Beams/UI/IconDesc_BeamPainted_512.png",
+		"short": "IconDesc_BeamPainted_512.png"
+	},
+	"Desc_ConveyorCeilingAttachment_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorPoleWall/UI/IconDesc_ConvCeilingAttachment_512.png",
+		"short": "IconDesc_ConvCeilingAttachment_512.png"
+	},
+	"Desc_ConveyorPoleWall_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorPoleWall/UI/IconDesc_ConvWallAttachment_512.png",
+		"short": "IconDesc_ConvWallAttachment_512.png"
+	},
+	"Desc_ConveyorBeltMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorBeltMk1/UI/ConveyorMk1_512.png",
+		"short": "ConveyorMk1_512.png"
+	},
+	"Desc_PowerLine_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerLine/UI/Powerline_256.png",
+		"short": "Powerline_256.png"
+	},
+	"Desc_PowerPoleMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleMk1/UI/PowerPoleMk1_512.png",
+		"short": "PowerPoleMk1_512.png"
+	},
+	"Desc_PowerPoleWall_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleWall/UI/PowerPoleWall_MK1_512.png",
+		"short": "PowerPoleWall_MK1_512.png"
+	},
+	"Desc_TradingPost_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/TradingPost/UI/Hub_512.png",
+		"short": "Hub_512.png"
+	},
+	"Desc_WorkBench_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/WorkBench/UI/Workbench_512.png",
+		"short": "Workbench_512.png"
+	},
+	"Desc_Fence_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Fence/UI/IconDesc_Fences_512.png",
+		"short": "IconDesc_Fences_512.png"
+	},
+	"Desc_JumpPad_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/JumpPad/UI/IconDesc_JumpPad_512.png",
+		"short": "IconDesc_JumpPad_512.png"
+	},
+	"Desc_JumpPadTilted_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/JumpPad/UI/IconDesc_JumpPad_512.png",
+		"short": "IconDesc_JumpPad_512.png"
+	},
+	"Desc_WalkwayCross_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Walkway/UI/IconDesc_WalkwayCross_512.png",
+		"short": "IconDesc_WalkwayCross_512.png"
+	},
+	"Desc_WalkwayRamp_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Walkway/UI/IconDesc_WalkwayRamp_512.png",
+		"short": "IconDesc_WalkwayRamp_512.png"
+	},
+	"Desc_WalkwayStraight_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Walkway/UI/IconDesc_WalkwayStraight_512.png",
+		"short": "IconDesc_WalkwayStraight_512.png"
+	},
+	"Desc_WalkwayT_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Walkway/UI/IconDesc_WalkwayT_512.png",
+		"short": "IconDesc_WalkwayT_512.png"
+	},
+	"Desc_WalkwayTurn_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Walkway/UI/IconDesc_WalkwayTurn_512.png",
+		"short": "IconDesc_WalkwayTurn_512.png"
+	},
+	"Desc_SteelWall_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Regular/IconDesc_SteelWall8x4_512.png",
+		"short": "IconDesc_SteelWall8x4_512.png"
+	},
+	"Desc_Wall_Conveyor_8x4_04_C": {
+		"full": "Game/FactoryGame/Interface/UI/Assets/Shared/01_White.png",
+		"short": "01_White.png"
+	},
+	"Desc_GeneratorCoal_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/GeneratorCoal/UI/IconDesc_CoalGenerator_512.png",
+		"short": "IconDesc_CoalGenerator_512.png"
+	},
+	"Desc_PipelineSupportWall_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipelineSupportWall/UI/PipeSupportWall_512.png",
+		"short": "PipeSupportWall_512.png"
+	},
+	"Desc_Pipeline_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Pipeline/UI/IconDesc_PipeMK1Indicator_512.png",
+		"short": "IconDesc_PipeMK1Indicator_512.png"
+	},
+	"Desc_PipelineJunction_Cross_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipeJunction/UI/PipelineJunction_512.png",
+		"short": "PipelineJunction_512.png"
+	},
+	"Desc_PipelinePump_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipePump/UI/PipePump_512.png",
+		"short": "PipePump_512.png"
+	},
+	"Desc_PipeStorageTank_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StorageTank/UI/IconDesc_FluidStorage_512.png",
+		"short": "IconDesc_FluidStorage_512.png"
+	},
+	"Desc_WaterPump_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/WaterPump/UI/Waterpump_512.png",
+		"short": "Waterpump_512.png"
+	},
+	"Desc_ResourceSink_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ResourceSink/UI/ResourceSink_512.png",
+		"short": "ResourceSink_512.png"
+	},
+	"Desc_ResourceSinkShop_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ResourceSinkShop/UI/ResourceSinkShop_512.png",
+		"short": "ResourceSinkShop_512.png"
+	},
+	"Desc_QuantumEncoder_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/QuantumEncoder/UI/IconDesc_QuantumEncoder_512.png",
+		"short": "IconDesc_QuantumEncoder_512.png"
+	},
+	"Desc_Converter_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Converter/UI/IconDesc_Converter_512.png",
+		"short": "IconDesc_Converter_512.png"
+	},
+	"Desc_OilPump_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/OilPump/UI/OilPump_512.png",
+		"short": "OilPump_512.png"
+	},
+	"Desc_OilRefinery_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/OilRefinery/UI/IconDesc_OilRefinery_512.png",
+		"short": "IconDesc_OilRefinery_512.png"
+	},
+	"Desc_Valve_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipeValve/UI/IconDesc_Valve_512.png",
+		"short": "IconDesc_Valve_512.png"
+	},
+	"Desc_FoundryMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/FoundryMk1/UI/IconDesc_Foundry_512.png",
+		"short": "IconDesc_Foundry_512.png"
+	},
+	"Desc_Packager_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Packager/UI/IconDesc_Packager_512.png",
+		"short": "IconDesc_Packager_512.png"
+	},
+	"Desc_MinerMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/MinerMk2/UI/IconDesc_MinerMk2_512.png",
+		"short": "IconDesc_MinerMk2_512.png"
+	},
+	"Desc_ManufacturerMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ManufacturerMk1/UI/IconDesc_Manufacturer_512.png",
+		"short": "IconDesc_Manufacturer_512.png"
+	},
+	"Desc_AssemblerMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/AssemblerMk1/UI/IconDesc_AssemblerMk1_512.png",
+		"short": "IconDesc_AssemblerMk1_512.png"
+	},
+	"Desc_HadronCollider_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/HadronCollider/UI/IconDesc_HadronCollider_512.png",
+		"short": "IconDesc_HadronCollider_512.png"
+	},
+	"Desc_Blender_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Blender/UI/IconDesc_Blender_512.png",
+		"short": "IconDesc_Blender_512.png"
+	},
+	"Desc_GeneratorNuclear_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/GeneratorNuclear/UI/NuclearPowerplant_512.png",
+		"short": "NuclearPowerplant_512.png"
+	},
+	"Desc_FrackingExtractor_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/FrackingExtractor/UI/IconDesc_Extractor_512.png",
+		"short": "IconDesc_Extractor_512.png"
+	},
+	"Desc_FrackingSmasher_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/FrackingSmasher/UI/IconDesc_Smasher_512.png",
+		"short": "IconDesc_Smasher_512.png"
+	},
+	"Desc_DroneStation_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/DroneStation/UI/IconDesc_DronePort_512.png",
+		"short": "IconDesc_DronePort_512.png"
+	},
+	"Desc_ConveyorBeltMk5_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorBeltMk5/UI/ConveyorMk5_512.png",
+		"short": "ConveyorMk5_512.png"
+	},
+	"Desc_ConveyorLiftMk5_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorLiftMk5/UI/ConveyorLiftMK5_512.png",
+		"short": "ConveyorLiftMK5_512.png"
+	},
+	"Desc_MinerMk3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/MinerMk3/UI/IconDesc_MinerMk3_512.png",
+		"short": "IconDesc_MinerMk3_512.png"
+	},
+	"Desc_ConveyorBeltMk6_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorBeltMk6/UI/ConveyorMk6_512.png",
+		"short": "ConveyorMk6_512.png"
+	},
+	"Desc_ConveyorLiftMk6_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorLiftMk6/UI/ConveyorLiftMK6_512.png",
+		"short": "ConveyorLiftMK6_512.png"
+	},
+	"Desc_Portal_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Portal/UI/IconDesc_Portal_512.png",
+		"short": "IconDesc_Portal_512.png"
+	},
+	"Desc_PortalSatellite_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Portal/UI/IconDesc_PortalSatellite_512.png",
+		"short": "IconDesc_PortalSatellite_512.png"
+	},
+	"Desc_BlueprintDesigner_MK3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/BlueprintDesigner/UI/IconDesc_BlueprintDesignerMK3_512.png",
+		"short": "IconDesc_BlueprintDesignerMK3_512.png"
+	},
+	"Desc_RailroadBlockSignal_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Signal/UI/IconDesc_BlockSignal_512.png",
+		"short": "IconDesc_BlockSignal_512.png"
+	},
+	"Desc_RailroadPathSignal_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Signal/UI/IconDesc_PathSignal_512.png",
+		"short": "IconDesc_PathSignal_512.png"
+	},
+	"Desc_BlueprintDesigner_MK2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/BlueprintDesigner/UI/IconDesc_BlueprintDesignerMK2_512.png",
+		"short": "IconDesc_BlueprintDesignerMK2_512.png"
+	},
+	"Desc_PipelineMK2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Pipeline/UI/IconDesc_PipeMK2Indicator_512.png",
+		"short": "IconDesc_PipeMK2Indicator_512.png"
+	},
+	"Desc_PipelinePumpMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipePumpMk2/UI/IconDesc_PipePumpMK2_512.png",
+		"short": "IconDesc_PipePumpMK2_512.png"
+	},
+	"Desc_TrainDockingStation_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Station/UI/IconDesc_DockingStation_512.png",
+		"short": "IconDesc_DockingStation_512.png"
+	},
+	"Desc_TrainDockingStationLiquid_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Station/UI/IconDesc_TrainDockingFluid_512.png",
+		"short": "IconDesc_TrainDockingFluid_512.png"
+	},
+	"Desc_TrainPlatformEmpty_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Station/UI/IconDesc_EmptyPlatform_512.png",
+		"short": "IconDesc_EmptyPlatform_512.png"
+	},
+	"Desc_TrainPlatformEmpty_02_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Station/UI/IconDesc_PlatformCatwalk_512.png",
+		"short": "IconDesc_PlatformCatwalk_512.png"
+	},
+	"Desc_TrainStation_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Station/UI/IconDesc_TrainStation_512.png",
+		"short": "IconDesc_TrainStation_512.png"
+	},
+	"Desc_RailroadTrack_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Train/Track/UI/Track_512.png",
+		"short": "Track_512.png"
+	},
+	"Desc_ConveyorBeltMk4_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorBeltMk4/UI/ConveyorMk4_512.png",
+		"short": "ConveyorMk4_512.png"
+	},
+	"Desc_ConveyorLiftMk4_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorLiftMk4/UI/ConveyorLiftMK4_512.png",
+		"short": "ConveyorLiftMK4_512.png"
+	},
+	"Desc_GeneratorFuel_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/GeneratorFuel/UI/FuelGenerator_512.png",
+		"short": "FuelGenerator_512.png"
+	},
+	"Desc_IndustrialTank_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StorageTank/UI/FluidStorageIndustrial_512.png",
+		"short": "FluidStorageIndustrial_512.png"
+	},
+	"Desc_ConveyorBeltMk3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorBeltMk3/UI/ConveyorMk3_512.png",
+		"short": "ConveyorMk3_512.png"
+	},
+	"Desc_ConveyorLiftMk3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorLiftMk3/UI/ConveyorLiftMK3_512.png",
+		"short": "ConveyorLiftMK3_512.png"
+	},
+	"Desc_StorageContainerMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StorageContainerMk2/UI/IconDesc_StorageContainerMk2_512.png",
+		"short": "IconDesc_StorageContainerMk2_512.png"
+	},
+	"Desc_BlueprintDesigner_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/BlueprintDesigner/UI/IconDesc_BlueprintDesigner_512.png",
+		"short": "IconDesc_BlueprintDesigner_512.png"
+	},
+	"Desc_PipeHyperStart_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipeHyperStart/UI/HyperTubeStart_512.png",
+		"short": "HyperTubeStart_512.png"
+	},
+	"Desc_HyperTubeWallSupport_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/HyperTubeWallSupport/UI/IconDesc_HyperTube_WallSupport_512.png",
+		"short": "IconDesc_HyperTube_WallSupport_512.png"
+	},
+	"Desc_PipeHyper_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipeHyper/UI/HyperTube_512.png",
+		"short": "HyperTube_512.png"
+	},
+	"Desc_PowerStorageMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerStorage/UI/IconDesc_PowerStorage_512.png",
+		"short": "IconDesc_PowerStorage_512.png"
+	},
+	"Desc_PowerTower_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerTower/UI/IconDesc_PowerTower_512.png",
+		"short": "IconDesc_PowerTower_512.png"
+	},
+	"Desc_PowerTowerPlatform_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerTower/UI/IconDesc_PowerTowerPlatform_512.png",
+		"short": "IconDesc_PowerTowerPlatform_512.png"
+	},
+	"Desc_TruckStation_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/TruckStation/UI/IconDesc_TruckStation_512.png",
+		"short": "IconDesc_TruckStation_512.png"
+	},
+	"Desc_ConveyorBeltMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorBeltMk2/UI/ConveyorMk2_512.png",
+		"short": "ConveyorMk2_512.png"
+	},
+	"Desc_ConveyorLiftMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorLiftMk2/UI/ConveyorLiftMK2_512.png",
+		"short": "ConveyorLiftMK2_512.png"
+	},
+	"Desc_JumpPadAdjustable_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/JumpPad/UI/IconDesc_JumpPad_512.png",
+		"short": "IconDesc_JumpPad_512.png"
+	},
+	"Desc_LandingPad_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/LandingPad/UI/LandingPad_512.png",
+		"short": "LandingPad_512.png"
+	},
+	"Desc_Mam_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Mam/UI/MAM_512.png",
+		"short": "MAM_512.png"
+	},
+	"Desc_StoragePlayer_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StoragePlayer/UI/PlayerStorage_256.png",
+		"short": "PlayerStorage_256.png"
+	},
+	"Desc_ConveyorAttachmentMerger_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/CA_Merger/UI/IconDesc_ConveyorMerger_512.png",
+		"short": "IconDesc_ConveyorMerger_512.png"
+	},
+	"Desc_ConveyorAttachmentSplitter_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/CA_Splitter/UI/IconDesc_ConveyorSplitter_512.png",
+		"short": "IconDesc_ConveyorSplitter_512.png"
+	},
+	"Desc_ConveyorLiftMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConveyorLiftMk1/UI/ConveyorLiftMK1_512.png",
+		"short": "ConveyorLiftMK1_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Ficsit_4x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_Mid_8x1_512.png",
+		"short": "IconDesc_QP_Ficsit_Mid_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Ficsit_4x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_Mid_8x2_512.png",
+		"short": "IconDesc_QP_Ficsit_Mid_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Ficsit_4x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_Mid_8x4_512.png",
+		"short": "IconDesc_QP_Ficsit_Mid_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Ficsit_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_MidInCorner_8x1_512.png",
+		"short": "IconDesc_QP_Ficsit_MidInCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Ficsit_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_MidInCorner_8x2_512.png",
+		"short": "IconDesc_QP_Ficsit_MidInCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Ficsit_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_MidInCorner_8x4_512.png",
+		"short": "IconDesc_QP_Ficsit_MidInCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Ficsit_4x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_MidOutCorner_8x1_512.png",
+		"short": "IconDesc_QP_Ficsit_MidOutCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Ficsit_4x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_MidOutCorner_8x2_512.png",
+		"short": "IconDesc_QP_Ficsit_MidOutCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Ficsit_4x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Ficsit_MidOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Ficsit_MidOutCorner_8x4_512.png"
+	},
+	"Desc_Stair_FicsitSet_8x1_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_FicsitStair_8x1_512.png",
+		"short": "IconDesc_FicsitStair_8x1_512.png"
+	},
+	"Desc_Stair_FicsitSet_8x2_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_FicsitStair_8x2_512.png",
+		"short": "IconDesc_FicsitStair_8x2_512.png"
+	},
+	"Desc_Stair_FicsitSet_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_FicsitStair_8x4_512.png",
+		"short": "IconDesc_FicsitStair_8x4_512.png"
+	},
+	"Desc_Foundation_8x1_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_FicsitFoundation1m_512.png",
+		"short": "IconDesc_FicsitFoundation1m_512.png"
+	},
+	"Desc_Foundation_8x2_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_FicsitFoundation2m_512.png",
+		"short": "IconDesc_FicsitFoundation2m_512.png"
+	},
+	"Desc_Foundation_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_FicsitFoundation4m_512.png",
+		"short": "IconDesc_FicsitFoundation4m_512.png"
+	},
+	"Desc_QuarterPipe_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/QuarterPipes/QuarterPipe_01_512.png",
+		"short": "QuarterPipe_01_512.png"
+	},
+	"Desc_QuarterPipe_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/QuarterPipes/QuarterPipe_02_512.png",
+		"short": "QuarterPipe_02_512.png"
+	},
+	"Desc_QuarterPipeCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/QuarterPipes/QuarterPipe_Corner_01_512.png",
+		"short": "QuarterPipe_Corner_01_512.png"
+	},
+	"Desc_QuarterPipeCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/QuarterPipes/QuarterPipe_Corner_02_512.png",
+		"short": "QuarterPipe_Corner_02_512.png"
+	},
+	"Desc_QuarterPipeCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/QuarterPipes/IconDesc_Cnr_QuarterPipe_03_512.png",
+		"short": "IconDesc_Cnr_QuarterPipe_03_512.png"
+	},
+	"Desc_QuarterPipeCorner_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/QuarterPipes/IconDesc_QP_Ficsit_DownOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Ficsit_DownOutCorner_8x4_512.png"
+	},
+	"Desc_Ramp_8x1_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_FicsitRamp1m_512.png",
+		"short": "IconDesc_FicsitRamp1m_512.png"
+	},
+	"Desc_Ramp_8x2_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_FicsitRamp2m_512.png",
+		"short": "IconDesc_FicsitRamp2m_512.png"
+	},
+	"Desc_Ramp_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_FicsitRamp4m_512.png",
+		"short": "IconDesc_FicsitRamp4m_512.png"
+	},
+	"Desc_Ramp_8x4_Inverted_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_FicsitInvertRamp4m_512.png",
+		"short": "IconDesc_FicsitInvertRamp4m_512.png"
+	},
+	"Desc_Ramp_8x8x8_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_FicsitDoubleRamp4m_512.png",
+		"short": "IconDesc_FicsitDoubleRamp4m_512.png"
+	},
+	"Desc_Ramp_Diagonal_8x1_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_FicsitRampDown1m_512.png",
+		"short": "IconDesc_FicsitRampDown1m_512.png"
+	},
+	"Desc_Ramp_Diagonal_8x1_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_FicsitRampUp1m_512.png",
+		"short": "IconDesc_FicsitRampUp1m_512.png"
+	},
+	"Desc_Ramp_Diagonal_8x2_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_FicsitRampDown2m_512.png",
+		"short": "IconDesc_FicsitRampDown2m_512.png"
+	},
+	"Desc_Ramp_Diagonal_8x2_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_FicsitRampUp2m_512.png",
+		"short": "IconDesc_FicsitRampUp2m_512.png"
+	},
+	"Desc_Ramp_Diagonal_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_FicsitRampDown4m_512.png",
+		"short": "IconDesc_FicsitRampDown4m_512.png"
+	},
+	"Desc_Ramp_Diagonal_8x4_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_FicsitRampUp4m_512.png",
+		"short": "IconDesc_FicsitRampUp4m_512.png"
+	},
+	"Desc_RampDouble_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_FicsitDoubleRamp2m_512.png",
+		"short": "IconDesc_FicsitDoubleRamp2m_512.png"
+	},
+	"Desc_RampDouble_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_FicsitDoubleRamp1m_512.png",
+		"short": "IconDesc_FicsitDoubleRamp1m_512.png"
+	},
+	"Desc_RampInverted_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_FicsitInvertRamp1m_512.png",
+		"short": "IconDesc_FicsitInvertRamp1m_512.png"
+	},
+	"Desc_RampInverted_8x1_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_FicsitInvURamp1m_512.png",
+		"short": "IconDesc_FicsitInvURamp1m_512.png"
+	},
+	"Desc_RampInverted_8x1_Corner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_FicsitInvDRamp1m_512.png",
+		"short": "IconDesc_FicsitInvDRamp1m_512.png"
+	},
+	"Desc_RampInverted_8x2_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_FicsitInvertRamp2m_512.png",
+		"short": "IconDesc_FicsitInvertRamp2m_512.png"
+	},
+	"Desc_RampInverted_8x2_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_FicsitInvURamp2m_512.png",
+		"short": "IconDesc_FicsitInvURamp2m_512.png"
+	},
+	"Desc_RampInverted_8x2_Corner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_FicsitInvDRamp2m_512.png",
+		"short": "IconDesc_FicsitInvDRamp2m_512.png"
+	},
+	"Desc_RampInverted_8x4_Corner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_FicsitInvURamp4m_512.png",
+		"short": "IconDesc_FicsitInvURamp4m_512.png"
+	},
+	"Desc_RampInverted_8x4_Corner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_FicsitInvDRamp4m_512.png",
+		"short": "IconDesc_FicsitInvDRamp4m_512.png"
+	},
+	"Desc_LookoutTower_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/LookoutTower/UI/LookOutTower_512.png",
+		"short": "LookOutTower_512.png"
+	},
+	"Desc_DownQuarterPipe_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Down_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_Down_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeInCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_DownInCorner_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_DownInCorner_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeOutCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_DownOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_DownOutCorner_8x4_512.png"
+	},
+	"Desc_Foundation_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_ConcFoundation1m_512.png",
+		"short": "IconDesc_ConcFoundation1m_512.png"
+	},
+	"Desc_Foundation_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_ConcFoundation2m_512.png",
+		"short": "IconDesc_ConcFoundation2m_512.png"
+	},
+	"Desc_Foundation_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_ConcFoundation4m_512.png",
+		"short": "IconDesc_ConcFoundation4m_512.png"
+	},
+	"Desc_InvertedRamp_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_ConcInvertRamp1m_512.png",
+		"short": "IconDesc_ConcInvertRamp1m_512.png"
+	},
+	"Desc_InvertedRamp_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_ConcInvertRamp2m_512.png",
+		"short": "IconDesc_ConcInvertRamp2m_512.png"
+	},
+	"Desc_InvertedRamp_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_ConcInvertRamp4m_512.png",
+		"short": "IconDesc_ConcInvertRamp4m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_ConcInvDRamp1m_512.png",
+		"short": "IconDesc_ConcInvDRamp1m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_ConcInvDRamp2m_512.png",
+		"short": "IconDesc_ConcInvDRamp2m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_ConcInvDRamp4m_512.png",
+		"short": "IconDesc_ConcInvDRamp4m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_ConcInvURamp1m_512.png",
+		"short": "IconDesc_ConcInvURamp1m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_ConcInvURamp2m_512.png",
+		"short": "IconDesc_ConcInvURamp2m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_ConcInvURamp4m_512.png",
+		"short": "IconDesc_ConcInvURamp4m_512.png"
+	},
+	"Desc_QuarterPipe_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_8x4_512.png"
+	},
+	"Desc_QuarterPipeInCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_InCorner_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_InCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_8x1_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_8x2_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_InCorner_8x1_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_InCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_InCorner_8x2_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_InCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_InCorner_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_InCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Concrete_4x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_OutCorner_8x1_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_OutCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Concrete_4x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_OutCorner_8x2_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_OutCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Concrete_4x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Mid_OutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_Mid_OutCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeOutCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Concrete_Out_8x4_512.png",
+		"short": "IconDesc_QP_Concrete_Out_8x4_512.png"
+	},
+	"Desc_Ramp_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_ConcRamp1m_512.png",
+		"short": "IconDesc_ConcRamp1m_512.png"
+	},
+	"Desc_Ramp_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_ConcRamp2m_512.png",
+		"short": "IconDesc_ConcRamp2m_512.png"
+	},
+	"Desc_Ramp_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_ConcRamp4m_512.png",
+		"short": "IconDesc_ConcRamp4m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_ConcRampDown1m_512.png",
+		"short": "IconDesc_ConcRampDown1m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_ConcRampDown2m_512.png",
+		"short": "IconDesc_ConcRampDown2m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_ConcRampDown4m_512.png",
+		"short": "IconDesc_ConcRampDown4m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_ConcRampUp1m_512.png",
+		"short": "IconDesc_ConcRampUp1m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_ConcRampUp2m_512.png",
+		"short": "IconDesc_ConcRampUp2m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_ConcRampUp4m_512.png",
+		"short": "IconDesc_ConcRampUp4m_512.png"
+	},
+	"Desc_RampDouble_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_ConcDoubleRamp1m_512.png",
+		"short": "IconDesc_ConcDoubleRamp1m_512.png"
+	},
+	"Desc_RampDouble_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_ConcDoubleRamp2m_512.png",
+		"short": "IconDesc_ConcDoubleRamp2m_512.png"
+	},
+	"Desc_RampDouble_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_ConcDoubleRamp4m_512.png",
+		"short": "IconDesc_ConcDoubleRamp4m_512.png"
+	},
+	"Desc_Stair_Concrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_ConcreteStair_8x1_512.png",
+		"short": "IconDesc_ConcreteStair_8x1_512.png"
+	},
+	"Desc_Stair_Concrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_ConcreteStair_8x2_512.png",
+		"short": "IconDesc_ConcreteStair_8x2_512.png"
+	},
+	"Desc_Stair_Concrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_ConcreteStair_8x4_512.png",
+		"short": "IconDesc_ConcreteStair_8x4_512.png"
+	},
+	"Desc_DownQuarterPipe_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_Down_8x4_512.png",
+		"short": "IconDesc_QP_Grip_Down_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeInCorner_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_DownInCorner_8x4_512.png",
+		"short": "IconDesc_QP_Grip_DownInCorner_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeOutCorner_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_DownOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Grip_DownOutCorner_8x4_512.png"
+	},
+	"Desc_Foundation_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_SteelFoundation1m_512.png",
+		"short": "IconDesc_SteelFoundation1m_512.png"
+	},
+	"Desc_Foundation_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_SteelFoundation2m_512.png",
+		"short": "IconDesc_SteelFoundation2m_512.png"
+	},
+	"Desc_Foundation_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_SteelFoundation4m_512.png",
+		"short": "IconDesc_SteelFoundation4m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_SteelInvDRamp1m_512.png",
+		"short": "IconDesc_SteelInvDRamp1m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_SteelInvDRamp2m_512.png",
+		"short": "IconDesc_SteelInvDRamp2m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_SteelInvDRamp4m_512.png",
+		"short": "IconDesc_SteelInvDRamp4m_512.png"
+	},
+	"Desc_InvertedRamp_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_SteelInvertRamp2m_512.png",
+		"short": "IconDesc_SteelInvertRamp2m_512.png"
+	},
+	"Desc_InvertedRamp_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_SteelInvertRamp1m_512_.png",
+		"short": "IconDesc_SteelInvertRamp1m_512_.png"
+	},
+	"Desc_InvertedRamp_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_SteelInvertRamp4m_512.png",
+		"short": "IconDesc_SteelInvertRamp4m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_SteelInvURamp1m_512.png",
+		"short": "IconDesc_SteelInvURamp1m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_SteelInvUramp2m_512.png",
+		"short": "IconDesc_SteelInvUramp2m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_SteelInvURamp4m_512.png",
+		"short": "IconDesc_SteelInvURamp4m_512.png"
+	},
+	"Desc_QuarterPipe_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_8x4_512.png",
+		"short": "IconDesc_QP_Grip_8x4_512.png"
+	},
+	"Desc_QuarterPipeInCorner_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_InCorner_8x4_512.png",
+		"short": "IconDesc_QP_Grip_InCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Grip_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_Mid_8x1_512.png",
+		"short": "IconDesc_QP_Grip_Mid_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Grip_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_Mid_8x2_512.png",
+		"short": "IconDesc_QP_Grip_Mid_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_Mid_8x4_512.png",
+		"short": "IconDesc_QP_Grip_Mid_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Grip_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_MidInCorner_8x1_512.png",
+		"short": "IconDesc_QP_Grip_MidInCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Grip_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_MidInCorner_8x2_512.png",
+		"short": "IconDesc_QP_Grip_MidInCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_MidInCorner_8x4_512.png",
+		"short": "IconDesc_QP_Grip_MidInCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Grip_4x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_MidOutCorner_8x1_512.png",
+		"short": "IconDesc_QP_Grip_MidOutCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Grip_4x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_MidOutCorner_8x2_512.png",
+		"short": "IconDesc_QP_Grip_MidOutCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Grip_4x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_MidOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Grip_MidOutCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeOutCorner_Grip_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Grip_Out_8x4_512.png",
+		"short": "IconDesc_QP_Grip_Out_8x4_512.png"
+	},
+	"Desc_Ramp_DownCorner_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_SteelRampDown1m_512.png",
+		"short": "IconDesc_SteelRampDown1m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_SteelRampDown2m_512.png",
+		"short": "IconDesc_SteelRampDown2m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_SteelRampDown4m_512.png",
+		"short": "IconDesc_SteelRampDown4m_512.png"
+	},
+	"Desc_Ramp_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_SteelRamp1m_512.png",
+		"short": "IconDesc_SteelRamp1m_512.png"
+	},
+	"Desc_Ramp_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_SteelRamp2m_512.png",
+		"short": "IconDesc_SteelRamp2m_512.png"
+	},
+	"Desc_Ramp_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_SteelRamp4m_512.png",
+		"short": "IconDesc_SteelRamp4m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_SteelRampUp1m_512.png",
+		"short": "IconDesc_SteelRampUp1m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_SteelRampUp2m_512.png",
+		"short": "IconDesc_SteelRampUp2m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_SteelRampUp4m_512.png",
+		"short": "IconDesc_SteelRampUp4m_512.png"
+	},
+	"Desc_RampDouble_Metal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_MetalDoubleRamp1m_512.png",
+		"short": "IconDesc_MetalDoubleRamp1m_512.png"
+	},
+	"Desc_RampDouble_Metal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_MetalDoubleRamp2m_512.png",
+		"short": "IconDesc_MetalDoubleRamp2m_512.png"
+	},
+	"Desc_RampDouble_Metal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_MetalDoubleRamp4m_512.png",
+		"short": "IconDesc_MetalDoubleRamp4m_512.png"
+	},
+	"Desc_Stair_GripMetal_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_GripMetalStair_8x1_512.png",
+		"short": "IconDesc_GripMetalStair_8x1_512.png"
+	},
+	"Desc_Stair_GripMetal_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_GripMetalStair_8x2_512.png",
+		"short": "IconDesc_GripMetalStair_8x2_512.png"
+	},
+	"Desc_Stair_GripMetal_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_GripMetalStair_8x4_512.png",
+		"short": "IconDesc_GripMetalStair_8x4_512.png"
+	},
+	"Desc_DownQuarterPipe_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_Down_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_Down_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeInCorner_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_DownInCorner_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_DownInCorner_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeOutCorner_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_DownOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_DownOutCorner_8x4_512.png"
+	},
+	"Desc_Foundation_ConcretePolished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_PolishFoundation1m_512.png",
+		"short": "IconDesc_PolishFoundation1m_512.png"
+	},
+	"Foundation_ConcretePolished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_PolishFoundation2m_512.png",
+		"short": "IconDesc_PolishFoundation2m_512.png"
+	},
+	"Foundation_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_PolishFoundation4m_512.png",
+		"short": "IconDesc_PolishFoundation4m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_PolishInvDRamp1m_512.png",
+		"short": "IconDesc_PolishInvDRamp1m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_PolishInvDRamp2m_512.png",
+		"short": "IconDesc_PolishInvDRamp2m_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedDown/IconDesc_PolishInvDRamp4m_512.png",
+		"short": "IconDesc_PolishInvDRamp4m_512.png"
+	},
+	"Desc_InvertedRamp_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_PolishInvertRamp1m_512.png",
+		"short": "IconDesc_PolishInvertRamp1m_512.png"
+	},
+	"Desc_InvertedRamp_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_PolishInvertRamp2m_512.png",
+		"short": "IconDesc_PolishInvertRamp2m_512.png"
+	},
+	"Desc_InvertedRamp_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Inverted/IconDesc_PolishInvertRamp4m_512.png",
+		"short": "IconDesc_PolishInvertRamp4m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_PolishInvURamp1m_512.png",
+		"short": "IconDesc_PolishInvURamp1m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_PolishInvURamp2m_512.png",
+		"short": "IconDesc_PolishInvURamp2m_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/InvertedUp/IconDesc_PolishInvURamp4m_512.png",
+		"short": "IconDesc_PolishInvURamp4m_512.png"
+	},
+	"Desc_QuarterPipe_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_8x4_512.png"
+	},
+	"Desc_QuarterPipeInCorner_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_InCorner_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_InCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddle_PolishedConcrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_Mid_8x1_512.png",
+		"short": "IconDesc_QP_PConcrete_Mid_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddle_PolishedConcrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_Mid_8x2_512.png",
+		"short": "IconDesc_QP_PConcrete_Mid_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddle_PolishedConcrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_Mid_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_Mid_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_PolishedConcrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_MidInCorner_8x1_512.png",
+		"short": "IconDesc_QP_PConcrete_MidInCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_PolishedConcrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_MidInCorner_8x2_512.png",
+		"short": "IconDesc_QP_PConcrete_MidInCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_PolishedConcrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_MidInCorner_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_MidInCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_PolishedConcrete_4x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_MidOutCorner_8x1_512.png",
+		"short": "IconDesc_QP_PConcrete_MidOutCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_PolishedConcrete_4x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_MidOutCorner_8x2_512.png",
+		"short": "IconDesc_QP_PConcrete_MidOutCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_PolishedConcrete_4x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_MidOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_MidOutCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeOutCorner_ConcretePolished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_PConcrete_Out_8x4_512.png",
+		"short": "IconDesc_QP_PConcrete_Out_8x4_512.png"
+	},
+	"Desc_Ramp_DownCorner_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_PolishRampDown1m_512.png",
+		"short": "IconDesc_PolishRampDown1m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_PolishRampDown2m_512.png",
+		"short": "IconDesc_PolishRampDown2m_512.png"
+	},
+	"Desc_Ramp_DownCorner_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerDown/IconDesc_PolishRampDown4m_512.png",
+		"short": "IconDesc_PolishRampDown4m_512.png"
+	},
+	"Desc_Ramp_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_PolishRamp1m_512.png",
+		"short": "IconDesc_PolishRamp1m_512.png"
+	},
+	"Desc_Ramp_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_PolishRamp2m_512.png",
+		"short": "IconDesc_PolishRamp2m_512.png"
+	},
+	"Desc_Ramp_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Regular/IconDesc_PolishRamp4m_512.png",
+		"short": "IconDesc_PolishRamp4m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_PolishRampUp1m_512.png",
+		"short": "IconDesc_PolishRampUp1m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_PolishRampUp2m_512.png",
+		"short": "IconDesc_PolishRampUp2m_512.png"
+	},
+	"Desc_Ramp_UpCorner_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/CornerUp/IconDesc_PolishRampUp4m_512.png",
+		"short": "IconDesc_PolishRampUp4m_512.png"
+	},
+	"Desc_RampDouble_Polished_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_PolishDoubleRamp1m_512.png",
+		"short": "IconDesc_PolishDoubleRamp1m_512.png"
+	},
+	"Desc_RampDouble_Polished_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_PolishDoubleRamp2m_512.png",
+		"short": "IconDesc_PolishDoubleRamp2m_512.png"
+	},
+	"Desc_RampDouble_Polished_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ramp/UI/Double/IconDesc_PolishDoubleRamp4m_512.png",
+		"short": "IconDesc_PolishDoubleRamp4m_512.png"
+	},
+	"Desc_Stair_PolishedConcrete_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_PConcreteStair_8x1_512.png",
+		"short": "IconDesc_PConcreteStair_8x1_512.png"
+	},
+	"Desc_Stair_PolishedConcrete_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_PConcreteStair_8x2_512.png",
+		"short": "IconDesc_PConcreteStair_8x2_512.png"
+	},
+	"Desc_Stair_PolishedConcrete_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_PConcreteStair_8x4_512.png",
+		"short": "IconDesc_PConcreteStair_8x4_512.png"
+	},
+	"Desc_DownQuarterPipe_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Down_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_Down_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeInCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_DownInCorner_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_DownInCorner_8x4_512.png"
+	},
+	"Desc_DownQuarterPipeOutCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_DownOutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_DownOutCorner_8x4_512.png"
+	},
+	"Desc_Foundation_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltFoundation8x1_512.png",
+		"short": "IconDesc_AsphaltFoundation8x1_512.png"
+	},
+	"Desc_Foundation_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltFoundation8x2_512.png",
+		"short": "IconDesc_AsphaltFoundation8x2_512.png"
+	},
+	"Desc_Foundation_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltFoundation8x4_512.png",
+		"short": "IconDesc_AsphaltFoundation8x4_512.png"
+	},
+	"Desc_InvertedRamp_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertR8x1_512.png",
+		"short": "IconDesc_AsphaltInvertR8x1_512.png"
+	},
+	"Desc_InvertedRamp_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertR8x2_512.png",
+		"short": "IconDesc_AsphaltInvertR8x2_512.png"
+	},
+	"Desc_InvertedRamp_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertR8x4_512.png",
+		"short": "IconDesc_AsphaltInvertR8x4_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertD8x1_512.png",
+		"short": "IconDesc_AsphaltInvertD8x1_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertD8x2_512.png",
+		"short": "IconDesc_AsphaltInvertD8x2_512.png"
+	},
+	"Desc_InvertedRamp_DCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AspahltInvertD8x4_512.png",
+		"short": "IconDesc_AspahltInvertD8x4_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertU8x1_512.png",
+		"short": "IconDesc_AsphaltInvertU8x1_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertU8x2_512.png",
+		"short": "IconDesc_AsphaltInvertU8x2_512.png"
+	},
+	"Desc_InvertedRamp_UCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltInvertU8x4_512.png",
+		"short": "IconDesc_AsphaltInvertU8x4_512.png"
+	},
+	"Desc_QuarterPipe_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_8x4_512.png"
+	},
+	"Desc_QuarterPipeInCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_InCorner_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_InCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_8x1_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_8x2_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddle_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_InCorner_8x1_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_InCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_InCorner_8x2_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_InCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleInCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_InCorner_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_InCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Asphalt_4x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_OutCorner_8x1_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_OutCorner_8x1_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Asphalt_4x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_OutCorner_8x2_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_OutCorner_8x2_512.png"
+	},
+	"Desc_QuarterPipeMiddleOutCorner_Asphalt_4x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Mid_OutCorner_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_Mid_OutCorner_8x4_512.png"
+	},
+	"Desc_QuarterPipeOutCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/QuarterPipe/IconDesc_QP_Asphalt_Out_8x4_512.png",
+		"short": "IconDesc_QP_Asphalt_Out_8x4_512.png"
+	},
+	"Desc_Ramp_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltRamp8x2_256.png",
+		"short": "IconDesc_AsphaltRamp8x2_256.png"
+	},
+	"Desc_Ramp_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltRamp8x2_512.png",
+		"short": "IconDesc_AsphaltRamp8x2_512.png"
+	},
+	"Desc_Ramp_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltRamp8x4_512.png",
+		"short": "IconDesc_AsphaltRamp8x4_512.png"
+	},
+	"Desc_Ramp_DownCorner_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_Aspha_tRamp8x1_512.png",
+		"short": "IconDesc_Aspha_tRamp8x1_512.png"
+	},
+	"Desc_Ramp_DownCorner_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltRampD8x2_512.png",
+		"short": "IconDesc_AsphaltRampD8x2_512.png"
+	},
+	"Desc_Ramp_DownCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltRampD8x4_512.png",
+		"short": "IconDesc_AsphaltRampD8x4_512.png"
+	},
+	"Desc_Ramp_UpCorner_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltCornerU8x2_256.png",
+		"short": "IconDesc_AsphaltCornerU8x2_256.png"
+	},
+	"Desc_Ramp_UpCorner_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltCornerU8x2_512.png",
+		"short": "IconDesc_AsphaltCornerU8x2_512.png"
+	},
+	"Desc_Ramp_UpCorner_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltCornerU8x4_512.png",
+		"short": "IconDesc_AsphaltCornerU8x4_512.png"
+	},
+	"Desc_RampDouble_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltDouble8x1_512.png",
+		"short": "IconDesc_AsphaltDouble8x1_512.png"
+	},
+	"Desc_RampDouble_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltDouble8x2_512.png",
+		"short": "IconDesc_AsphaltDouble8x2_512.png"
+	},
+	"Desc_RampDouble_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/AsphaltSet/UI/IconDesc_AsphaltDouble8x4_512.png",
+		"short": "IconDesc_AsphaltDouble8x4_512.png"
+	},
+	"Desc_Stair_Asphalt_8x1_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_AsphaltStair_8x1_512.png",
+		"short": "IconDesc_AsphaltStair_8x1_512.png"
+	},
+	"Desc_Stair_Asphalt_8x2_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_AsphaltStair_8x2_512.png",
+		"short": "IconDesc_AsphaltStair_8x2_512.png"
+	},
+	"Desc_Stair_Asphalt_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Stairs/IconDesc_AsphaltStair_8x4_512.png",
+		"short": "IconDesc_AsphaltStair_8x4_512.png"
+	},
+	"Desc_AlienPowerBuilding_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/AlienPower/UI/IconDesc_AlienPowerAugmenter_512.png",
+		"short": "IconDesc_AlienPowerAugmenter_512.png"
+	},
+	"Desc_CentralStorage_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/CentralStorage/UI/IconDesc_CentralStorage_512.png",
+		"short": "IconDesc_CentralStorage_512.png"
+	},
+	"Desc_GeneratorGeoThermal_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/GeneratorGeoThermal/UI/GeoThermalPowerGenerator_512.png",
+		"short": "GeoThermalPowerGenerator_512.png"
+	},
+	"Desc_ConveyorAttachmentSplitterProgrammable_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/CA_SplitterProgrammable/UI/IconDesc_ProgrammableSplitter_512.png",
+		"short": "IconDesc_ProgrammableSplitter_512.png"
+	},
+	"Desc_PowerPoleMk3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleMk3/UI/PowerPoleMk3_512.png",
+		"short": "PowerPoleMk3_512.png"
+	},
+	"Desc_PriorityPowerSwitch_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/SmartPowerSwitch/UI/IconDesc_SmartSwitch_512.png",
+		"short": "IconDesc_SmartSwitch_512.png"
+	},
+	"Desc_PowerPoleMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleMk2/UI/PowerPoleMk2_512.png",
+		"short": "PowerPoleMk2_512.png"
+	},
+	"Desc_PowerSwitch_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerSwitch/UI/IconDesc_PowerSwitch_512.png",
+		"short": "IconDesc_PowerSwitch_512.png"
+	},
+	"Desc_ConveyorAttachmentSplitterSmart_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/CA_SplitterSmart/UI/IconDesc_SmartSplitter_512.png",
+		"short": "IconDesc_SmartSplitter_512.png"
+	},
+	"Desc_RadarTower_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/RadarTower/UI/RadarTower_512.png",
+		"short": "RadarTower_512.png"
+	},
+	"Desc_WreathDecor_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_WreathNoBow_256.png",
+		"short": "IconDesc_WreathNoBow_256.png"
+	},
+	"Desc_SnowDispenser_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Buildings/UI/IconDesc_SnowDispenser_512.png",
+		"short": "IconDesc_SnowDispenser_512.png"
+	},
+	"Desc_xmassLights_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerLine/UI/Powerline_256.png",
+		"short": "Powerline_256.png"
+	},
+	"Desc_TreeGiftProducer_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_ChristmasTree_512.png",
+		"short": "IconDesc_ChristmasTree_512.png"
+	},
+	"Desc_Snowman_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Buildings/UI/IconDesc_Snowman_512.png",
+		"short": "IconDesc_Snowman_512.png"
+	},
+	"Desc_XMassTree_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_ChristmasTreeBare_512.png",
+		"short": "IconDesc_ChristmasTreeBare_512.png"
+	},
+	"Desc_CandyCaneDecor_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Buildings/UI/IconDesc_CandyCaneDecor_512.png",
+		"short": "IconDesc_CandyCaneDecor_512.png"
+	},
+	"Desc_Flat_Frame_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_FlatFrame_512.png",
+		"short": "IconDesc_FlatFrame_512.png"
+	},
+	"Desc_Foundation_Frame_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_FoundationFrame_512.png",
+		"short": "IconDesc_FoundationFrame_512.png"
+	},
+	"Desc_FoundationGlass_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/Foundation_Glass_512.png",
+		"short": "Foundation_Glass_512.png"
+	},
+	"Desc_Ramp_Frame_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_RampFrame_512.png",
+		"short": "IconDesc_RampFrame_512.png"
+	},
+	"Desc_Ramp_Frame_Inverted_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_RampFrameInverted_512.png",
+		"short": "IconDesc_RampFrameInverted_512.png"
+	},
+	"Desc_Wall_Frame_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Foundation/UI/U5/IconDesc_WallFrame_512.png",
+		"short": "IconDesc_WallFrame_512.png"
+	},
+	"Desc_Railing_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Fence/UI/IconDesc_Railing_512.png",
+		"short": "IconDesc_Railing_512.png"
+	},
+	"Desc_Pillar_Small_Metal_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/IconDesc_PillarMetalSmall_512.png",
+		"short": "IconDesc_PillarMetalSmall_512.png"
+	},
+	"Desc_PillarBase_Small_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/IconDesc_PillarBaseSmall_512.png",
+		"short": "IconDesc_PillarBaseSmall_512.png"
+	},
+	"Desc_PillarBase_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/Pillar_Bottom_512.png",
+		"short": "Pillar_Bottom_512.png"
+	},
+	"Desc_PillarMiddle_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/Pillar_Middle_512.png",
+		"short": "Pillar_Middle_512.png"
+	},
+	"Desc_Ladder_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Ladder/UI/IconDesc_Ladder_512.png",
+		"short": "IconDesc_Ladder_512.png"
+	},
+	"Desc_Gate_Automated_8x4_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Doors/UI/IconDesc_AutomatedGate_512.png",
+		"short": "IconDesc_AutomatedGate_512.png"
+	},
+	"Desc_HyperTubeWallHole_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/HyperTubeWallSupport/UI/IconDesc_HyperTube_WallHole_512.png",
+		"short": "IconDesc_HyperTube_WallHole_512.png"
+	},
+	"Desc_PipelineSupportWallHole_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PipelineSupportWallHole/UI/PipeSupportWallHole_512.png",
+		"short": "PipeSupportWallHole_512.png"
+	},
+	"Desc_FoundationPassthrough_Pipe_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/FoundationPassthrough/UI/IconDesc_PipeFloorHole_512.png",
+		"short": "IconDesc_PipeFloorHole_512.png"
+	},
+	"Desc_PowerPoleWallDouble_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleWallDouble/UI/PowerPoleWallDouble_MK1_512.png",
+		"short": "PowerPoleWallDouble_MK1_512.png"
+	},
+	"Desc_PowerPoleWallDoubleMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleWallDouble/UI/PowerPoleWallDouble_MK2_512.png",
+		"short": "PowerPoleWallDouble_MK2_512.png"
+	},
+	"Desc_PowerPoleWallMk2_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleWall/UI/PowerPoleWall_MK2_512.png",
+		"short": "PowerPoleWall_MK2_512.png"
+	},
+	"Desc_PowerPoleWallDoubleMk3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleWallDouble/UI/PowerPoleWallDouble_MK3_512.png",
+		"short": "PowerPoleWallDouble_MK3_512.png"
+	},
+	"Desc_PowerPoleWallMk3_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/PowerPoleWall/UI/PowerPoleWall_MK3_512.png",
+		"short": "PowerPoleWall_MK3_512.png"
+	},
+	"Desc_StreetLight_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StreetLight/UI/IconDesc_StreetLight_512.png",
+		"short": "IconDesc_StreetLight_512.png"
+	},
+	"Desc_CeilingLight_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/CeilingLight/UI/IconDesc_CeilingLight_512.png",
+		"short": "IconDesc_CeilingLight_512.png"
+	},
+	"Desc_FloodlightPole_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Floodlight/UI/IconDesc_FloodLight_512.png",
+		"short": "IconDesc_FloodLight_512.png"
+	},
+	"Desc_FloodlightWall_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Floodlight/UI/IconDesc_FloodlightWall_512.png",
+		"short": "IconDesc_FloodlightWall_512.png"
+	},
+	"Desc_Roof_Orange_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoofFlat_512.png",
+		"short": "IconDesc_FicsitRoofFlat_512.png"
+	},
+	"Desc_Roof_Orange_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoof1m_512.png",
+		"short": "IconDesc_FicsitRoof1m_512.png"
+	},
+	"Desc_Roof_Orange_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoof2m_512.png",
+		"short": "IconDesc_FicsitRoof2m_512.png"
+	},
+	"Desc_Roof_Orange_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoof4m_512.png",
+		"short": "IconDesc_FicsitRoof4m_512.png"
+	},
+	"Desc_Roof_Orange_InCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofFicsitIn_01_512.png",
+		"short": "IconDesc_RoofFicsitIn_01_512.png"
+	},
+	"Desc_Roof_Orange_InCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofFicsitIn_02_512.png",
+		"short": "IconDesc_RoofFicsitIn_02_512.png"
+	},
+	"Desc_Roof_Orange_InCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofFicsitIn_03_512.png",
+		"short": "IconDesc_RoofFicsitIn_03_512.png"
+	},
+	"Desc_Roof_Orange_OutCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoofOut_01_512.png",
+		"short": "IconDesc_FicsitRoofOut_01_512.png"
+	},
+	"Desc_Roof_Orange_OutCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoofOut_02_512.png",
+		"short": "IconDesc_FicsitRoofOut_02_512.png"
+	},
+	"Desc_Roof_Orange_OutCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_FicsitRoofOut_03_512.png",
+		"short": "IconDesc_FicsitRoofOut_03_512.png"
+	},
+	"Desc_Roof_Window_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_GlassRoofFlat_512.png",
+		"short": "IconDesc_GlassRoofFlat_512.png"
+	},
+	"Desc_Roof_Window_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_GlassRoof1m_512.png",
+		"short": "IconDesc_GlassRoof1m_512.png"
+	},
+	"Desc_Roof_Window_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_GlassRoof2m_512.png",
+		"short": "IconDesc_GlassRoof2m_512.png"
+	},
+	"Desc_Roof_Window_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_GlassRoof4m_512.png",
+		"short": "IconDesc_GlassRoof4m_512.png"
+	},
+	"Desc_Roof_Window_InCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofWindowIn_01_512.png",
+		"short": "IconDesc_RoofWindowIn_01_512.png"
+	},
+	"Desc_Roof_Window_InCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofWindowIn_02_512.png",
+		"short": "IconDesc_RoofWindowIn_02_512.png"
+	},
+	"Desc_Roof_Window_InCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofWindowIn_03_512.png",
+		"short": "IconDesc_RoofWindowIn_03_512.png"
+	},
+	"Desc_Roof_Window_OutCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofWindowOut_01_512.png",
+		"short": "IconDesc_RoofWindowOut_01_512.png"
+	},
+	"Desc_Roof_Window_OutCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofWindowOut_02_512.png",
+		"short": "IconDesc_RoofWindowOut_02_512.png"
+	},
+	"Desc_Roof_Window_OutCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofWindowOut_03_512.png",
+		"short": "IconDesc_RoofWindowOut_03_512.png"
+	},
+	"Desc_Roof_A_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_SteelRoofFlat_512.png",
+		"short": "IconDesc_SteelRoofFlat_512.png"
+	},
+	"Desc_Roof_A_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_SteelRoof1m_512.png",
+		"short": "IconDesc_SteelRoof1m_512.png"
+	},
+	"Desc_Roof_A_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_SteelRoof2m_512.png",
+		"short": "IconDesc_SteelRoof2m_512.png"
+	},
+	"Desc_Roof_A_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_SteelRoof4m_512.png",
+		"short": "IconDesc_SteelRoof4m_512.png"
+	},
+	"Desc_Roof_Metal_InCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofMetalIn_01_512.png",
+		"short": "IconDesc_RoofMetalIn_01_512.png"
+	},
+	"Desc_Roof_Metal_InCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofMetalIn_02_512.png",
+		"short": "IconDesc_RoofMetalIn_02_512.png"
+	},
+	"Desc_Roof_Metal_InCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofMetalIn_03_512.png",
+		"short": "IconDesc_RoofMetalIn_03_512.png"
+	},
+	"Desc_Roof_Metal_OutCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofMetalOut_01_512.png",
+		"short": "IconDesc_RoofMetalOut_01_512.png"
+	},
+	"Desc_Roof_Metal_OutCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofMetalOut_02_512.png",
+		"short": "IconDesc_RoofMetalOut_02_512.png"
+	},
+	"Desc_Roof_Metal_OutCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofMetalOut_03_512.png",
+		"short": "IconDesc_RoofMetalOut_03_512.png"
+	},
+	"Desc_Roof_Tar_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_TarRoofFlat_512.png",
+		"short": "IconDesc_TarRoofFlat_512.png"
+	},
+	"Desc_Roof_Tar_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_TarRoof1m_512.png",
+		"short": "IconDesc_TarRoof1m_512.png"
+	},
+	"Desc_Roof_Tar_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_TarRoof2m_512.png",
+		"short": "IconDesc_TarRoof2m_512.png"
+	},
+	"Desc_Roof_Tar_04_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_TarRoof4m_512.png",
+		"short": "IconDesc_TarRoof4m_512.png"
+	},
+	"Desc_Roof_Tar_InCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofTarInCorner_01_512.png",
+		"short": "IconDesc_RoofTarInCorner_01_512.png"
+	},
+	"Desc_Roof_Tar_InCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofTarInCorner_02_512.png",
+		"short": "IconDesc_RoofTarInCorner_02_512.png"
+	},
+	"Desc_Roof_Tar_InCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofTarInCorner_03_512.png",
+		"short": "IconDesc_RoofTarInCorner_03_512.png"
+	},
+	"Desc_Roof_Tar_OutCorner_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofTarOutCorner_01_512.png",
+		"short": "IconDesc_RoofTarOutCorner_01_512.png"
+	},
+	"Desc_Roof_Tar_OutCorner_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofTarOutCorner_02_512.png",
+		"short": "IconDesc_RoofTarOutCorner_02_512.png"
+	},
+	"Desc_Roof_Tar_OutCorner_03_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Roof/UI/IconDesc_RoofTarOutCorner_03_512.png",
+		"short": "IconDesc_RoofTarOutCorner_03_512.png"
+	},
+	"Desc_PipelineMK2_NoIndicator_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Pipeline/UI/IconDesc_PipeMK2_512.png",
+		"short": "IconDesc_PipeMK2_512.png"
+	},
+	"Desc_Pipeline_NoIndicator_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Pipeline/UI/IconDesc_Pipes_512.png",
+		"short": "IconDesc_Pipes_512.png"
+	},
+	"Desc_StorageMedkit_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StoragePlayer/UI/IconDesc_StorageMedkit_512.png",
+		"short": "IconDesc_StorageMedkit_512.png"
+	},
+	"Desc_LightsControlPanel_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/LightsControlPanel/UI/IconDesc_LightsControlPanel_512.png",
+		"short": "IconDesc_LightsControlPanel_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Small_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignSmall_512.png",
+		"short": "IconDesc_SignSmall_512.png"
+	},
+	"Desc_StandaloneWidgetSign_SmallVeryWide_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignSmallVeryWide_512.png",
+		"short": "IconDesc_SignSmallVeryWide_512.png"
+	},
+	"Desc_StandaloneWidgetSign_SmallWide_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignSmallWide_512.png",
+		"short": "IconDesc_SignSmallWide_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Square_Tiny_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignSquareTiny_512.png",
+		"short": "IconDesc_SignSquareTiny_512.png"
+	},
+	"Desc_FoundationPassthrough_Hypertube_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/HyperTubeWallSupport/UI/IconDesc_HypertubeFloorHole_512.png",
+		"short": "IconDesc_HypertubeFloorHole_512.png"
+	},
+	"Desc_StorageHazard_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StoragePlayer/UI/IconDesc_StorageHazard_512.png",
+		"short": "IconDesc_StorageHazard_512.png"
+	},
+	"Desc_Wall_Window_8x4_05_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/WallWindow/IconDesc_AWindow_512.png",
+		"short": "IconDesc_AWindow_512.png"
+	},
+	"Desc_Wall_Window_8x4_06_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/WallWindow/IconDesc_HexWindow_512.png",
+		"short": "IconDesc_HexWindow_512.png"
+	},
+	"Desc_Wall_Window_8x4_07_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/WallWindow/IconDesc_ThreeWindow_512.png",
+		"short": "IconDesc_ThreeWindow_512.png"
+	},
+	"Desc_Wall_Window_Thin_8x4_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_FullWindow_512.png",
+		"short": "IconDesc_FullWindow_512.png"
+	},
+	"Desc_Wall_Window_Thin_8x4_02_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Wall/UI/Portholes/IconDesc_HexagonWindow_512.png",
+		"short": "IconDesc_HexagonWindow_512.png"
+	},
+	"Desc_Pillar_Small_Frame_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/IconDesc_PillarFrameSmall_512.png",
+		"short": "IconDesc_PillarFrameSmall_512.png"
+	},
+	"Desc_PillarMiddle_Frame_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/IconDesc_PillarFrameBig_512.png",
+		"short": "IconDesc_PillarFrameBig_512.png"
+	},
+	"Desc_ChainLinkFence_C": {
+		"full": "Game/FactoryGame/Buildable/Building/TarpFence/UI/IconDesc_ChainLinkFence_512.png",
+		"short": "IconDesc_ChainLinkFence_512.png"
+	},
+	"Desc_TarpFence_C": {
+		"full": "Game/FactoryGame/Buildable/Building/TarpFence/UI/IconDesc_TarpFence_512.png",
+		"short": "IconDesc_TarpFence_512.png"
+	},
+	"Desc_Barrier_Low_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Barrier/UI/IconDesc_LowBarrier_512.png",
+		"short": "IconDesc_LowBarrier_512.png"
+	},
+	"Desc_Barrier_Tall_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Barrier/UI/IconDesc_TallBarrier_512.png",
+		"short": "IconDesc_TallBarrier_512.png"
+	},
+	"Desc_Concrete_Barrier_01_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Fence/UI/IconDesc_ConcreteBarrier_512.png",
+		"short": "IconDesc_ConcreteBarrier_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Medium_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignMedium_512.png",
+		"short": "IconDesc_SignMedium_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Portrait_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignPortrait_512.png",
+		"short": "IconDesc_SignPortrait_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Square_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignSquare_512.png",
+		"short": "IconDesc_SignSquare_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Square_Small_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignSquareSmall_512.png",
+		"short": "IconDesc_SignSquareSmall_512.png"
+	},
+	"Desc_FoundationPassthrough_Lift_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/FoundationPassthrough/UI/IconDesc_ConveyorFloorHole_512.png",
+		"short": "IconDesc_ConveyorFloorHole_512.png"
+	},
+	"Desc_Pillar_Small_Concrete_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/IconDesc_PillarConcSmall_512.png",
+		"short": "IconDesc_PillarConcSmall_512.png"
+	},
+	"Desc_PillarMiddle_Concrete_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Pillars/UI/IconDesc_PillarConcBig_512.png",
+		"short": "IconDesc_PillarConcBig_512.png"
+	},
+	"Desc_CatwalkCross_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Catwalk/UI/IconDesc_CatwalkCross_512.png",
+		"short": "IconDesc_CatwalkCross_512.png"
+	},
+	"Desc_CatwalkRamp_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Catwalk/UI/IconDesc_CatwalkRamp_512.png",
+		"short": "IconDesc_CatwalkRamp_512.png"
+	},
+	"Desc_CatwalkStairs_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Catwalk/UI/IconDesc_CatwalkStairs_512.png",
+		"short": "IconDesc_CatwalkStairs_512.png"
+	},
+	"Desc_CatwalkStraight_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Catwalk/UI/IconDesc_CatwalkStraight_512.png",
+		"short": "IconDesc_CatwalkStraight_512.png"
+	},
+	"Desc_CatwalkT_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Catwalk/UI/IconDesc_CatwalkT_512.png",
+		"short": "IconDesc_CatwalkT_512.png"
+	},
+	"Desc_CatwalkTurn_C": {
+		"full": "Game/FactoryGame/Buildable/Building/Catwalk/UI/IconDesc_CatwalkTurn_512.png",
+		"short": "IconDesc_CatwalkTurn_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Huge_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignHuge_512.png",
+		"short": "IconDesc_SignHuge_512.png"
+	},
+	"Desc_StandaloneWidgetSign_Large_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StandaloneSign/UI/IconDesc_SignLarge_512.png",
+		"short": "IconDesc_SignLarge_512.png"
+	},
+	"Desc_Beam_Connector_C": {
+		"full": "Game/FactoryGame/Prototype/Buildable/Beams/UI/IconDesc_BeamConnector_512.png",
+		"short": "IconDesc_BeamConnector_512.png"
+	},
+	"Desc_Beam_Connector_Double_C": {
+		"full": "Game/FactoryGame/Prototype/Buildable/Beams/UI/IconDesc_BeamConnectorDouble_512.png",
+		"short": "IconDesc_BeamConnectorDouble_512.png"
+	},
+	"Desc_Beam_Support_C": {
+		"full": "Game/FactoryGame/Prototype/Buildable/Beams/UI/IconDesc_BeamSupport_512.png",
+		"short": "IconDesc_BeamSupport_512.png"
+	},
+	"Desc_GeneratorBiomass_Automated_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/GeneratorBiomass/UI/BiomassGenerator_512.png",
+		"short": "BiomassGenerator_512.png"
+	},
+	"Desc_SpaceElevator_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/SpaceElevator/UI/SpaceElevator_512.png",
+		"short": "SpaceElevator_512.png"
+	},
+	"Desc_MinerMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/MinerMK1/UI/IconDesc_MinerMk1_512.png",
+		"short": "IconDesc_MinerMk1_512.png"
+	},
+	"Desc_StorageContainerMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/StorageContainerMk1/UI/IconDesc_StorageContainer_512.png",
+		"short": "IconDesc_StorageContainer_512.png"
+	},
+	"Desc_ConstructorMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/ConstructorMk1/UI/IconDesc_ConstructorMk1_512.png",
+		"short": "IconDesc_ConstructorMk1_512.png"
+	},
+	"Desc_SmelterMk1_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/SmelterMk1/UI/IconDesc_SmelterMk1_512.png",
+		"short": "IconDesc_SmelterMk1_512.png"
+	},
+	"Desc_Workshop_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/Workshop/UI/Workshop_512.png",
+		"short": "Workshop_512.png"
+	},
+	"Desc_NuclearFuelRod_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NuclearFuelRod/UI/IconDesc_NuclearFuelRod_256.png",
+		"short": "IconDesc_NuclearFuelRod_256.png"
+	},
+	"Desc_PlutoniumFuelRod_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PlutoniumFuelRods/UI/IconDesc_PlutoniumFuelRod_256.png",
+		"short": "IconDesc_PlutoniumFuelRod_256.png"
+	},
+	"Desc_FicsoniumFuelRod_C": {
+		"full": "Game/FactoryGame/Resource/Parts/FicsoniumFuelRod/UI/IconDesc_FicsoniumFuelRod_256.png",
+		"short": "IconDesc_FicsoniumFuelRod_256.png"
+	},
+	"Desc_Rebar_Explosive_C": {
+		"full": "Game/FactoryGame/Equipment/RebarGun/UI/IconDesc_ExpRebar_256.png",
+		"short": "IconDesc_ExpRebar_256.png"
+	},
+	"Desc_Rebar_Stunshot_C": {
+		"full": "Game/FactoryGame/Equipment/RebarGun/UI/IconDesc_StunRebar_256.png",
+		"short": "IconDesc_StunRebar_256.png"
+	},
+	"Desc_CartridgeSmartProjectile_C": {
+		"full": "Game/FactoryGame/Equipment/Rifle/UI/IconDesc_HomingRifle_256.png",
+		"short": "IconDesc_HomingRifle_256.png"
+	},
+	"Desc_NobeliskCluster_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NobeliskExplosive/UI/IconDesc_Cluster_256.png",
+		"short": "IconDesc_Cluster_256.png"
+	},
+	"Desc_NobeliskExplosive_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NobeliskExplosive/UI/IconDesc_Explosive_256.png",
+		"short": "IconDesc_Explosive_256.png"
+	},
+	"Desc_NobeliskGas_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NobeliskExplosive/UI/IconDesc_Gas_256.png",
+		"short": "IconDesc_Gas_256.png"
+	},
+	"Desc_NobeliskNuke_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NobeliskExplosive/UI/IconDesc_Nuke_256.png",
+		"short": "IconDesc_Nuke_256.png"
+	},
+	"Desc_NobeliskShockwave_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NobeliskExplosive/UI/IconDesc_Shock_256.png",
+		"short": "IconDesc_Shock_256.png"
+	},
+	"Desc_Fireworks_Projectile_01_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Fireworks/UI/IconDesc_Rocket01_256.png",
+		"short": "IconDesc_Rocket01_256.png"
+	},
+	"Desc_Fireworks_Projectile_02_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Fireworks/UI/IconDesc_Rocket02_256.png",
+		"short": "IconDesc_Rocket02_256.png"
+	},
+	"Desc_Fireworks_Projectile_03_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Fireworks/UI/IconDesc_Rocket03_256.png",
+		"short": "IconDesc_Rocket03_256.png"
+	},
+	"Desc_SnowballProjectile_C": {
+		"full": "Game/FactoryGame/Events/Christmas/Parts/UI/IconDesc_SnowballProjectile_256.png",
+		"short": "IconDesc_SnowballProjectile_256.png"
+	},
+	"Desc_SpikedRebar_C": {
+		"full": "Game/FactoryGame/Equipment/RebarGun/UI/IconDesc_Rebar_256.png",
+		"short": "IconDesc_Rebar_256.png"
+	},
+	"Desc_RebarGunProjectile_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/NailGun/UI/IconDesc_RebarGun_256.png",
+		"short": "IconDesc_RebarGun_256.png"
+	},
+	"BP_EquipmentDescriptorRifle_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/Rifle/UI/RifleMk1_256.png",
+		"short": "RifleMk1_256.png"
+	},
+	"BP_EquipmentDescriptorHazmatSuit_C": {
+		"full": "Game/FactoryGame/Resource/Parts/HazmatSuit/UI/IconDesc_HazmatSuit_256.png",
+		"short": "IconDesc_HazmatSuit_256.png"
+	},
+	"BP_EquipmentDescriptorNobeliskDetonator_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/NobeliskDetonator/UI/Detonator_256.png",
+		"short": "Detonator_256.png"
+	},
+	"Desc_GolfCart_C": {
+		"full": "Game/FactoryGame/Equipment/GolfCart/UI/IconDesc_GolfCart_256.png",
+		"short": "IconDesc_GolfCart_256.png"
+	},
+	"Desc_GolfCartGold_C": {
+		"full": "Game/FactoryGame/Equipment/GolfCart/UI/IconDesc_GolfCartGold_256.png",
+		"short": "IconDesc_GolfCartGold_256.png"
+	},
+	"BP_ItemDescriptorPortableMiner_C": {
+		"full": "Game/FactoryGame/IconDesc_PortableMiner_256.png",
+		"short": "IconDesc_PortableMiner_256.png"
+	},
+	"BP_EquipmentDescriptorShockShank_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/ShockShank/UI/IconDesc_XenoZapper_256.png",
+		"short": "IconDesc_XenoZapper_256.png"
+	},
+	"BP_EquipmentDescriptorObjectScanner_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/GemstoneScanner/UI/ObjectScanner_256.png",
+		"short": "ObjectScanner_256.png"
+	},
+	"BP_EquipmentDescriptorHoverPack_C": {
+		"full": "Game/FactoryGame/Equipment/HoverPack/UI/IconDesc_Hoverpack_256.png",
+		"short": "IconDesc_Hoverpack_256.png"
+	},
+	"BP_EquipmentDescriptorJetPack_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/JetPack/UI/Jetpack_256.png",
+		"short": "Jetpack_256.png"
+	},
+	"BP_EquipmentDescriptorStunSpear_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/StunSpear/UI/IconDesc_XenoBasher_256.png",
+		"short": "IconDesc_XenoBasher_256.png"
+	},
+	"Desc_Chainsaw_C": {
+		"full": "Game/FactoryGame/Equipment/Chainsaw/UI/IconDesc_Chainsaw_256.png",
+		"short": "IconDesc_Chainsaw_256.png"
+	},
+	"BP_EquipmentDescriptorJumpingStilts_C": {
+		"full": "Game/FactoryGame/Equipment/JumpingStilts/UI/IconDesc_SprintingStilts_256.png",
+		"short": "IconDesc_SprintingStilts_256.png"
+	},
+	"BP_EqDescZipLine_C": {
+		"full": "Game/FactoryGame/Equipment/Zipline/UI/IconDesc_Zipline_256.png",
+		"short": "IconDesc_Zipline_256.png"
+	},
+	"BP_EquipmentDescriptorGasmask_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/GasMask/UI/GasMask_256.png",
+		"short": "GasMask_256.png"
+	},
+	"BP_EquipmentDescriptorCandyCane_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/StunSpear/UI/IconDesc_CaneEquipment_256.png",
+		"short": "IconDesc_CaneEquipment_256.png"
+	},
+	"Desc_Rebar_Spreadshot_C": {
+		"full": "Game/FactoryGame/Equipment/RebarGun/UI/IconDesc_ScatterRebar_256.png",
+		"short": "IconDesc_ScatterRebar_256.png"
+	},
+	"Desc_CartridgeChaos_C": {
+		"full": "Game/FactoryGame/Equipment/Rifle/UI/IconDesc_TurboRifle_256.png",
+		"short": "IconDesc_TurboRifle_256.png"
+	},
+	"Desc_CartridgeStandard_C": {
+		"full": "Game/FactoryGame/Equipment/Rifle/UI/IconDesc_Rifle_256.png",
+		"short": "IconDesc_Rifle_256.png"
+	},
+	"Desc_OreIron_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Nodes/UI/IconDesc_iron_new_256.png",
+		"short": "IconDesc_iron_new_256.png"
+	},
+	"Desc_Coal_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Coal/UI/IconDesc_CoalOre_256.png",
+		"short": "IconDesc_CoalOre_256.png"
+	},
+	"Desc_Water_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Water/UI/LiquidWater_Pipe_256.png",
+		"short": "LiquidWater_Pipe_256.png"
+	},
+	"Desc_NitrogenGas_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PackagedNitrogen/UI/IconDesc_NitrogenGas_256.png",
+		"short": "IconDesc_NitrogenGas_256.png"
+	},
+	"Desc_Sulfur_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Sulfur/UI/Sulfur_256.png",
+		"short": "Sulfur_256.png"
+	},
+	"Desc_SAM_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/SAM/UI/IconDesc_SameOre_256.png",
+		"short": "IconDesc_SameOre_256.png"
+	},
+	"Desc_OreBauxite_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Nodes/UI/IconDesc_Bauxite_256.png",
+		"short": "IconDesc_Bauxite_256.png"
+	},
+	"Desc_OreGold_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Nodes/UI/IconDesc_CateriumOre_256.png",
+		"short": "IconDesc_CateriumOre_256.png"
+	},
+	"Desc_OreCopper_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Nodes/UI/IconDesc_copper_new_256.png",
+		"short": "IconDesc_copper_new_256.png"
+	},
+	"Desc_RawQuartz_C": {
+		"full": "Game/FactoryGame/Resource/Parts/QuartzCrystal/UI/IconDesc_QuartzCrystal_256.png",
+		"short": "IconDesc_QuartzCrystal_256.png"
+	},
+	"Desc_Stone_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/Stone/UI/Stone_256.png",
+		"short": "Stone_256.png"
+	},
+	"Desc_OreUranium_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/OreUranium/UI/IconDesc_UraniumOre_256.png",
+		"short": "IconDesc_UraniumOre_256.png"
+	},
+	"Desc_LiquidOil_C": {
+		"full": "Game/FactoryGame/Resource/RawResources/CrudeOil/UI/LiquidOil_Pipe_512.png",
+		"short": "LiquidOil_Pipe_512.png"
+	},
+	"Desc_Biofuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SolidBiofuel/UI/IconDesc_SolidBiofuel_256.png",
+		"short": "IconDesc_SolidBiofuel_256.png"
+	},
+	"Desc_PackagedBiofuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Turbofuel/UI/IconDesc_LiquidBiofuel_256.png",
+		"short": "IconDesc_LiquidBiofuel_256.png"
+	},
+	"Desc_GenericBiomass_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GenericBiomass/UI/IconDesc_Biomass_Final_256.png",
+		"short": "IconDesc_Biomass_Final_256.png"
+	},
+	"Desc_Leaves_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GenericBiomass/IconDesc_Leaves_256.png",
+		"short": "IconDesc_Leaves_256.png"
+	},
+	"Desc_Mycelia_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GenericBiomass/UI/IconDesc_Mycelia_256.png",
+		"short": "IconDesc_Mycelia_256.png"
+	},
+	"Desc_Wood_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GenericBiomass/UI/IconDesc_Wood_256.png",
+		"short": "IconDesc_Wood_256.png"
+	},
+	"Desc_LiquidBiofuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/BioFuel/UI/IconDesc_LiquidBiofuel_Pipe_256.png",
+		"short": "IconDesc_LiquidBiofuel_Pipe_256.png"
+	},
+	"Desc_PackagedAlumina_C": {
+		"full": "Game/FactoryGame/Resource/Parts/Alumina/UI/IconDesc_PackagedAluminaSolution_256.png",
+		"short": "IconDesc_PackagedAluminaSolution_256.png"
+	},
+	"Desc_PackagedNitrogenGas_C": {
+		"full": "Game/FactoryGame/Resource/Parts/PackagedNitrogen/UI/IconDesc_PackagedNitrogen_256.png",
+		"short": "IconDesc_PackagedNitrogen_256.png"
+	},
+	"Desc_PackagedNitricAcid_C": {
+		"full": "Game/FactoryGame/Resource/Parts/NitricAcid/UI/IconDesc_PackagedNitricAcid_256.png",
+		"short": "IconDesc_PackagedNitricAcid_256.png"
+	},
+	"Desc_PackagedSulfuricAcid_C": {
+		"full": "Game/FactoryGame/Resource/Parts/SulfuricAcid/UI/IconDesc_PckagedSulphuricAcid_256.png",
+		"short": "IconDesc_PckagedSulphuricAcid_256.png"
+	},
+	"Desc_Fabric_C": {
+		"full": "Game/FactoryGame/Resource/Parts/GenericBiomass/UI/IconDesc_Fabric_256.png",
+		"short": "IconDesc_Fabric_256.png"
+	},
+	"Desc_HogParts_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AnimalParts/UI/IconDesc_HogPart_256.png",
+		"short": "IconDesc_HogPart_256.png"
+	},
+	"Desc_SpitterParts_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AnimalParts/UI/IconDesc_SpitterPart_256.png",
+		"short": "IconDesc_SpitterPart_256.png"
+	},
+	"Desc_StingerParts_C": {
+		"full": "Game/FactoryGame/Resource/Environment/AnimalParts/UI/IconDesc_StingerPart_256.png",
+		"short": "IconDesc_StingerPart_256.png"
+	},
+	"Desc_HatcherParts_C": {
+		"full": "Game/FactoryGame/Resource/Environment/AnimalParts/UI/IconDesc_HatcherPart_256.png",
+		"short": "IconDesc_HatcherPart_256.png"
+	},
+	"Desc_CrystalShard_C": {
+		"full": "Game/FactoryGame/Resource/Environment/Crystal/UI/PowerShard_256.png",
+		"short": "PowerShard_256.png"
+	},
+	"Desc_WAT1_C": {
+		"full": "Game/FactoryGame/Prototype/WAT/UI/Wat_1_256.png",
+		"short": "Wat_1_256.png"
+	},
+	"Desc_DroneTransport_C": {
+		"full": "Game/FactoryGame/Buildable/Factory/DroneStation/UI/IconDesc_Drone_512.png",
+		"short": "IconDesc_Drone_512.png"
+	},
+	"Desc_FreightWagon_C": {
+		"full": "Game/FactoryGame/Buildable/Vehicle/Train/Wagon/UI/FreightCar_512.png",
+		"short": "FreightCar_512.png"
+	},
+	"Desc_Locomotive_C": {
+		"full": "Game/FactoryGame/Buildable/Vehicle/Train/Locomotive/UI/Locomotive_512.png",
+		"short": "Locomotive_512.png"
+	},
+	"Desc_Truck_C": {
+		"full": "Game/FactoryGame/Buildable/Vehicle/Truck/UI/IconDesc_Truck_512.png",
+		"short": "IconDesc_Truck_512.png"
+	},
+	"Desc_Tractor_C": {
+		"full": "Game/FactoryGame/Buildable/Vehicle/Tractor/UI/IconDesc_Tractor_512.png",
+		"short": "IconDesc_Tractor_512.png"
+	},
+	"Desc_Explorer_C": {
+		"full": "Game/FactoryGame/Buildable/Vehicle/Explorer/UI/IconDesc_Explorer_512.png",
+		"short": "IconDesc_Explorer_512.png"
+	},
+	"Desc_CyberWagon_C": {
+		"full": "Game/FactoryGame/Buildable/Vehicle/Cyberwagon/UI/Cyberwagon_512.png",
+		"short": "Cyberwagon_512.png"
+	},
+	"Desc_Berry_C": {
+		"full": "Game/FactoryGame/Resource/Environment/Berry/UI/IconDesc_Berry_256.png",
+		"short": "IconDesc_Berry_256.png"
+	},
+	"Desc_Nut_C": {
+		"full": "Game/FactoryGame/Resource/Environment/Nut/UI/Nut_256_New.png",
+		"short": "Nut_256_New.png"
+	},
+	"Desc_Medkit_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/Medkit/UI/Inhaler_256.png",
+		"short": "Inhaler_256.png"
+	},
+	"Desc_Shroom_C": {
+		"full": "Game/FactoryGame/Resource/Environment/DesertShroom/UI/Mushroom_256.png",
+		"short": "Mushroom_256.png"
+	},
+	"Desc_Parachute_C": {
+		"full": "Game/FactoryGame/Resource/Equipment/Beacon/UI/Parachute_256.png",
+		"short": "Parachute_256.png"
+	},
+	"Desc_AlienPowerFuel_C": {
+		"full": "Game/FactoryGame/Resource/Parts/AlienPowerMatrix/UI/IconDesc_AlienPowerMatrix_256.png",
+		"short": "IconDesc_AlienPowerMatrix_256.png"
+	},
+	"Desc_ResourceSinkCoupon_C": {
+		"full": "/Game/FactoryGame/Resource/Parts/ResourceSinkCoupon/UI/IconDesc_Ficsit_Coupon_256.png",
+		"short": "IconDesc_Ficsit_Coupon_256.png"
+	}
+}
