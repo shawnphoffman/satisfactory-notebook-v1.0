@@ -5,11 +5,6 @@ const config: Config = {
 	content: ['./src/pages/**/*.{js,ts,jsx,tsx,mdx}', './src/components/**/*.{js,ts,jsx,tsx,mdx}', './src/app/**/*.{js,ts,jsx,tsx,mdx}'],
 	theme: {
 		extend: {
-			screens: {
-				// xs: '500px',
-				// Print media
-				// print: { raw: 'print' },
-			},
 			borderColor: {
 				DEFAULT: colors.stone['400'],
 			},

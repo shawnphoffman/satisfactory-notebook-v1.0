@@ -22,7 +22,7 @@ export default function Sidebar() {
 					<input type="checkbox" name="temp" className="h-4 leading-none" />
 					<div className="flex flex-col text-sm gap-1 leading-[16px]">
 						<label htmlFor="temp">Temp</label>
-						<span className="italic text-xs text-sidebar-dark leading-none">Temp description</span>
+						<span className="italic text-xs text-background leading-none">Temp description</span>
 					</div>
 				</div>
 				{/*  */}
@@ -30,7 +30,7 @@ export default function Sidebar() {
 					<input type="checkbox" name="temp" className="h-4 leading-none" />
 					<div className="flex flex-col text-sm gap-1 leading-[16px]">
 						<label htmlFor="temp">Temp</label>
-						<span className="italic text-xs text-sidebar-dark leading-none">Temp description</span>
+						<span className="italic text-xs text-background leading-none">Temp description</span>
 					</div>
 				</div>
 			</div>
@@ -77,6 +77,10 @@ export default function Sidebar() {
 						</li>
 					</ul>
 				</div>
+			</div>
+
+			<div className="font-bold animate-pulse text-orange-800">
+				I am currently updating the site for 1.0. Check back for additional functionality.
 			</div>
 
 			<div className="flex flex-1 justify-end text-[11px] italic flex-col flex-wrap text-pretty leading-normal">

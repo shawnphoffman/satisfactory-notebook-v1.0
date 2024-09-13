@@ -4,6 +4,7 @@ import '@fortawesome/fontawesome-svg-core/styles.css'
 import type { Metadata } from 'next'
 import { Open_Sans } from 'next/font/google'
 
+import { CommandPalette } from '@/components/CommandPalette'
 import Sidebar from '@/components/Sidebar/Sidebar'
 
 const openSans = Open_Sans({ subsets: ['latin'] })
@@ -20,6 +21,7 @@ export default function RootLayout({ children }: Props) {
 				<div className="flex w-full flex-row" id="content">
 					{children}
 				</div>
+				<CommandPalette />
 			</body>
 		</html>
 	)
