@@ -2,6 +2,7 @@ import { calculateProductionRate, getItemByClassName } from '@/data/helpers'
 import { IItemAmountSchema } from '@/scripts/bin/schema/IItemAmountSchema'
 import { IAnyRecipeSchema } from '@/scripts/bin/schema/IRecipeSchema'
 
+import { Fraction } from './Fraction'
 import ItemImage from './ItemImage'
 
 type Props = {
@@ -34,8 +35,10 @@ export default function RecipePart({ part, recipe }: Props) {
 
 			{/* Amount */}
 			<div className="whitespace-nowrap leading-tight flex items-center">
-				{/* TODO Handle cycle and fraction options */}
-				<span className="font-bold">{rate?.perMin}</span>
+				<span className="font-bold inline-block [body.use-decimals_&]:hidden">
+					<Fraction>{rate?.perMinFraction}</Fraction>
+				</span>
+				<span className="font-bold hidden [body.use-decimals_&]:inline-block ">{rate?.perMin}</span>
 				<span className="text-[0.75rem] font-medium">{rate?.perMinLabel}</span>
 			</div>
 		</div>

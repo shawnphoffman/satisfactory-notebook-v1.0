@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from 'react'
 
+// NOTE - It's probably good to add default-false classes to the layout to avoid flashing
+
 export function SidebarSetting({
 	name,
 	label,
@@ -20,12 +22,11 @@ export function SidebarSetting({
 	}
 
 	useEffect(() => {
-		console.log(`Setting ${name} is ${value}`)
-		if (!value) {
+		// console.log(`Setting ${name} is ${value}`)
+		if (!value && document.body.className.indexOf(name) === -1) {
 			document.body.className = `${document.body.className} ${name}`
-		} else {
+		} else if (value) {
 			document.body.className = document.body.className.replace(name, '')
-			// document.body.classList.remove(name)
 		}
 	}, [name, value])
 

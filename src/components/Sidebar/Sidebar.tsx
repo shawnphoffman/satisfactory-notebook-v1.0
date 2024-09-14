@@ -36,6 +36,8 @@ export default function Sidebar() {
 					defaultValue={true}
 					description="Include per cycle inputs/outputs"
 				/>
+				<SidebarSetting name="use-decimals" label="Use Fractions" defaultValue={false} description="Conversions are hard" />
+				<SidebarSetting name="hide-description" label="Show Description" defaultValue={true} description="They wrote them so show them" />
 			</div>
 
 			{/* Categories */}
