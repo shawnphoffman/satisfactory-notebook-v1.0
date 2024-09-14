@@ -1,6 +1,11 @@
-import { faCog, faLayerGroup, faPrint } from '@awesome.me/kit-90105b07a9/icons/classic/solid'
+import {
+	faCog,
+	// faLayerGroup,
+	faPrint,
+} from '@awesome.me/kit-90105b07a9/icons/classic/solid'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Image from 'next/image'
+import Link from 'next/link'
 
 import logo from './logo_stripes.png'
 
@@ -10,7 +15,9 @@ export default function Sidebar() {
 			className="flex bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky sm:basis-72 overflow-hidden top-0 p-2 flex-col justify-start h-auto md:h-screen border-r border-r-sidebar-dark/20 print:hidden gap-4"
 			id="sidebar"
 		>
-			<Image src={logo} alt="Satisfactory Notebook" width={280} priority className="self-center md:self-start" />
+			<Link href="/">
+				<Image src={logo} alt="Satisfactory Notebook" width={280} priority className="self-center md:self-start" />
+			</Link>
 			{/* Settings */}
 			<div className="flex flex-col gap-2">
 				<div className="font-bold flex flex-row gap-0.5 items-center">
@@ -34,13 +41,13 @@ export default function Sidebar() {
 					</div>
 				</div>
 			</div>
+
 			{/* Categories */}
-			<div className="flex flex-col gap-2">
+			{/* <div className="flex flex-col gap-2">
 				<div className="font-bold flex flex-row gap-0.5 items-center">
 					<FontAwesomeIcon icon={faLayerGroup} fixedWidth />
 					<span>Categories</span>
 				</div>
-				{/*  */}
 				<div className="flex flex-row gap-1 items-start ms-4">
 					<input type="checkbox" name="temp" className="h-4 leading-none" />
 					<div className="flex flex-col text-sm gap-1 leading-[16px]">
@@ -53,7 +60,8 @@ export default function Sidebar() {
 						<label htmlFor="temp">Temp</label>
 					</div>
 				</div>
-			</div>
+			</div> */}
+
 			{/* Print Settings */}
 			<div className="flex-col gap-2 hidden sm:flex">
 				<div className="font-bold flex flex-row gap-0.5 items-center">

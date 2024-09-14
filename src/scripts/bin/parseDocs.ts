@@ -149,6 +149,7 @@ for (const definitions of docs) {
 		case "/Script/CoreUObject.Class'/Script/FactoryGame.FGBuildableWidgetSign'":
 		case "/Script/CoreUObject.Class'/Script/FactoryGame.FGBuildableLadder'":
 		case "/Script/CoreUObject.Class'/Script/FactoryGame.FGBuildablePassthrough'":
+			// case "/Script/CoreUObject.Class'/Script/FactoryGame.FGBuildableSnowDispenser'":
 			for (const building of parseBuildings(definitions.Classes, true)) {
 				console.log(` 🏛️ BUILDING: ${building.className}`)
 				json.buildings[building.className] = building

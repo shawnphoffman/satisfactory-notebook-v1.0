@@ -1,1 +1,38 @@
+**Removed item: Candy Cane Basher
+**Removed item: Candy Cane
+**Removed item: FICSMAS Gift
+**Removed item: Actual Snow
+**Removed item: Snowball
+**Removed item: Red FICSMAS Ornament
+**Removed item: Blue FICSMAS Ornament
+**Removed item: Copper FICSMAS Ornament
+**Removed item: Iron FICSMAS Ornament
+**Removed item: FICSMAS Ornament Bundle
+**Removed item: FICSMAS Bow
+**Removed item: FICSMAS Tree Branch
+**Removed item: FICSMAS Wonder Star
+**Removed item: FICSMAS Decoration
+**Removed recipe: Candy Cane Basher
+**Removed recipe: Candy Cane
+**Removed recipe: Candy Cane
+**Removed recipe: Sweet Fireworks
+**Removed recipe: Fancy Fireworks
+**Removed recipe: Sparkly Fireworks
+**Removed recipe: FICSMAS Snow Dispenser
+**Removed recipe: Actual Snow
+**Removed recipe: Snowball
+**Removed recipe: Snowman
+**Removed recipe: FICSMAS Gift Tree
+**Removed recipe: FICSMAS Wreath
+**Removed recipe: Giant FICSMAS Tree
+**Removed recipe: Red FICSMAS Ornament
+**Removed recipe: Blue FICSMAS Ornament
+**Removed recipe: Copper FICSMAS Ornament
+**Removed recipe: Iron FICSMAS Ornament
+**Removed recipe: FICSMAS Ornament Bundle
+**Removed recipe: FICSMAS Bow
+**Removed recipe: FICSMAS Tree Branch
+**Removed recipe: FICSMAS Wonder Star
+**Removed recipe: FICSMAS Decoration
+**Removed recipe: FICSMAS Power Light
 **Excited Photonic Matter**: Changed undefined cost from null to NaN

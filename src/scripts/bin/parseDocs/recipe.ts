@@ -27,7 +27,7 @@ export default function parseRecipes(
 		'Desc_CyberWagon_C',
 	]
 
-	const ignored = [
+	const ignored: string[] = [
 		'Desc_CandyCane_C',
 		'Desc_Gift_C',
 		'Desc_Snow_C',
