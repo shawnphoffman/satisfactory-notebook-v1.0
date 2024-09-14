@@ -2,6 +2,7 @@
 
 /swipe
 /extract
+/data/diff.txt
 
 # dependencies
 /node_modules

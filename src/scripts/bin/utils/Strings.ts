@@ -19,52 +19,11 @@ export class Strings {
 		EST_ResourceSink: 'AWESOME Sink',
 	}
 
-	public static formatNumber(num: number | string, decimals: number = 3) {
-		if (typeof num === 'string') {
-			num = parseFloat(num)
-		}
-		return num.toFixed(decimals).replace(/\.?0+$/, '')
-	}
-
 	public static webalize(name: string): string {
 		return name
 			.replace(/[\s|.]+/gi, '-')
 			.replace(/[™:]/gi, '')
 			.toLowerCase()
-	}
-
-	public static stringToBuffer(str: string): ArrayBuffer {
-		const stringLength = str.length
-		const buffer = new ArrayBuffer(stringLength)
-		const bufferView = new Uint8Array(buffer)
-		for (let i = 0; i < stringLength; i++) {
-			bufferView[i] = str.charCodeAt(i)
-		}
-		return buffer
-	}
-
-	public static bufferToString(buffer: ArrayBuffer): string {
-		return String.fromCharCode.apply(null, Array.from(new Uint16Array(buffer)))
-	}
-
-	public static dateToIso(date: Date): string {
-		return (
-			date.getFullYear() +
-			'-' +
-			Strings.padNum(date.getMonth()) +
-			'-' +
-			Strings.padNum(date.getDay()) +
-			'-' +
-			Strings.padNum(date.getHours()) +
-			'-' +
-			Strings.padNum(date.getMinutes()) +
-			'-' +
-			Strings.padNum(date.getSeconds())
-		)
-	}
-
-	public static padNum(num: number, length: number = 2): string {
-		return ('' + num).padStart(length, '0')
 	}
 
 	public static stackSizeFromEnum(size: string): number {
@@ -86,10 +45,6 @@ export class Strings {
 		}
 	}
 
-	public static convertSchematicType(type: string): string {
-		return Strings.schematicTypes[type] ? Strings.schematicTypes[type] : type
-	}
-
 	public static unserializeDocs(text: string): any {
 		const parsers: { [index: string]: RegExp } = {}
 		parsers[Strings.OPENING_BRACE] = /\(/
@@ -99,13 +54,7 @@ export class Strings {
 		parsers[Strings.SEPARATOR] = /,/
 
 		try {
-			// if (text.includes('Desc_Cement')) {
-			// 	console.log('text:', text)
-			// }
 			const tokens = Strings.parseTokens(Strings.tokenize(text, parsers, Strings.UNKNOWN), 0).result
-			// if (text.includes('Desc_Cement')) {
-			// 	console.log({ tokens })
-			// }
 			return tokens
 		} catch (e) {
 			throw new Error('Invalid string: ' + text + '\n' + e)

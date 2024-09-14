@@ -7,6 +7,8 @@ import { Open_Sans } from 'next/font/google'
 import { CommandPalette } from '@/components/CommandPalette'
 import Sidebar from '@/components/Sidebar/Sidebar'
 
+import { siteDescription, siteTitle, siteUrl } from './metadata'
+
 const openSans = Open_Sans({ subsets: ['latin'] })
 
 type Props = Readonly<{
@@ -27,8 +29,9 @@ export default function RootLayout({ children }: Props) {
 	)
 }
 
-const siteTitle = 'Satisfactory Notebook'
 export const metadata: Metadata = {
 	title: siteTitle,
-	description: 'A Satisfactory companion for those that prefer to print things out.',
+	description: siteDescription,
+	metadataBase: siteUrl,
+	authors: [{ name: 'Shawn Hoffman' }],
 }

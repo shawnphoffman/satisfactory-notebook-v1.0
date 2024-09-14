@@ -20,7 +20,7 @@ import { Strings } from './utils/Strings'
 
 const outputDir = path.join(__dirname, '..', '..', 'data')
 
-const docs = JSON.parse(fs.readFileSync(path.join(outputDir, 'Docs.json')).toString())
+const docs = JSON.parse(fs.readFileSync(path.join(outputDir, 'en-US.json')).toString())
 
 // console.log('Parsing docs...', docs)
 const oldData: IJsonSchema = JSON.parse(fs.readFileSync(path.join(outputDir, 'output.json')).toString()) as IJsonSchema

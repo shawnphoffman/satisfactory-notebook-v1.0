@@ -7,23 +7,7 @@
 	size: A5;
 	margin: 1mm;
 	print-color-adjust: exact;
-
-	/* @page :first {
-			margin: auto 3cm;
-		}
-
-		@page :left {
-			margin-left: 4cm;
-			margin-right: 3cm;
-		}
-
-		@page :right {
-			margin-left: 3cm;
-			margin-right: 4cm;
-		} */
 }
-/* } */
-/* HELLO */
 * {
 	@apply box-border;
 }
