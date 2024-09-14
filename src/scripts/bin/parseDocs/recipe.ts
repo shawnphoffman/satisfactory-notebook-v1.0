@@ -82,9 +82,9 @@ export default function parseRecipes(
 		}
 
 		// ignore converter recipes
-		if (producedIn.indexOf('Desc_Converter_C') !== -1) {
-			continue
-		}
+		// if (producedIn.indexOf('Desc_Converter_C') !== -1) {
+		// 	continue
+		// }
 
 		let forBuilding = false
 		let inMachine = false

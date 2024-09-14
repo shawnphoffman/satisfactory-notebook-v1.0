@@ -331,13 +331,20 @@ for (const key in json.recipes) {
 	const recipe = json.recipes[key]
 
 	for (const ingredient of recipe.ingredients) {
+		// TODO Make a const
+		if (Number.isNaN(ingredient.amount) && recipe.producedIn.includes('Desc_Converter_C')) {
+			// Recipe_QuantumEnergy_C has no ingredients
+			continue
+		}
 		if (!json.items[ingredient.item]) {
+			console.log(chalk.greenBright(JSON.stringify({ ingredient, recipe, key }, null, 2)))
 			throw new Error('Invalid item ' + ingredient.item + ' (' + key + ')')
 		}
 		if (json.items[ingredient.item].liquid) {
 			ingredient.amount /= 1000
 		}
 	}
+
 	for (const product of recipe.products) {
 		if (!json.items[product.item]) {
 			continue

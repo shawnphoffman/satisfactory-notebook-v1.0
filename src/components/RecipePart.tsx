@@ -11,7 +11,12 @@ type Props = {
 
 export default function RecipePart({ part, recipe }: Props) {
 	const itemClass = getItemByClassName(part.item)!
-	const rate = calculateProductionRate(part.amount, recipe.time, itemClass.liquid || false)
+	const rate = calculateProductionRate(part.amount, recipe.time, itemClass?.liquid || false || false)
+
+	if (!itemClass) {
+		console.warn(`No item found`, { itemClass, part })
+	}
+
 	return (
 		<div className="flex items-center flex-row justify-between bg-sidebar/50 p-1 rounded-md gap-1">
 			{/* Info */}
@@ -22,8 +27,8 @@ export default function RecipePart({ part, recipe }: Props) {
 			{/* Amount */}
 			<div className="whitespace-nowrap leading-tight flex items-center">
 				{/* TODO Handle cycle and fraction options */}
-				<span className="font-bold">{rate.perMin}</span>
-				<span className="text-[0.75rem] font-medium">{rate.perMinLabel}</span>
+				<span className="font-bold">{rate?.perMin}</span>
+				<span className="text-[0.75rem] font-medium">{rate?.perMinLabel}</span>
 			</div>
 		</div>
 	)

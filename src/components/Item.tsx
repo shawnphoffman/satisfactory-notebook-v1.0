@@ -12,7 +12,7 @@ export default function Item({ item }: Props) {
 	// TODO Handle left-padding option
 	const recipes = getRecipesForItem(item.className)
 
-	if (!recipes.length) return null
+	// if (!recipes.length) return null
 
 	return (
 		<div id={item.className} className="flex gap-4 flex-row px-2 break-after-page break-inside-auto w-full">

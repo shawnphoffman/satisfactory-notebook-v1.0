@@ -1,0 +1,1 @@
+**Excited Photonic Matter**: Changed undefined cost from null to NaN

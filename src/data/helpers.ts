@@ -24,6 +24,10 @@ export const getBuildingByClassName = (className: string) => {
 }
 
 export const calculateProductionRate = (amount: number, duration: number, liquid: boolean) => {
+	if (Number.isNaN(amount)) {
+		return null
+	}
+
 	// const amt = liquid ? amount / 1000 : amount
 	const amt = liquid ? amount : amount
 	const decimal = Number((amt * (60 / duration)).toFixed(4))

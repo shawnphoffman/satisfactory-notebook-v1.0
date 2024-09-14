@@ -151,11 +151,11 @@ export class DiffGenerator {
 		}
 
 		if (!newIngredient) {
-			return 'Removed ' + this.originalSchema.items[(originalIngredient as IItemAmountSchema).item].name + ' ' + type
+			return 'Removed ' + this.originalSchema?.items[(originalIngredient as IItemAmountSchema).item]?.name + ' ' + type
 		}
 
 		if (!originalIngredient) {
-			return 'Added ' + newIngredient.amount + ' ' + this.newSchema.items[newIngredient.item].name + ' ' + type
+			return 'Added ' + newIngredient.amount + ' ' + this.newSchema.items[newIngredient.item]?.name + ' ' + type
 		}
 
 		if (originalIngredient.item !== newIngredient.item) {
@@ -174,7 +174,7 @@ export class DiffGenerator {
 		} else if (originalIngredient.amount !== newIngredient.amount) {
 			return (
 				'Changed ' +
-				this.originalSchema.items[originalIngredient.item].name +
+				this.originalSchema.items[originalIngredient.item]?.name +
 				' ' +
 				type +
 				' from ' +
