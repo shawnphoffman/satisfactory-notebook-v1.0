@@ -64,7 +64,6 @@ export default function Recipe({ recipe }: Props) {
 				</div>
 				{/* Arrow */}
 				<div className="flex-0 shrink-1 md:w-auto items-center justify-center flex">
-					{/* <div className="flex-0 shrink-1"> */}
 					<FontAwesomeIcon icon={faArrowAltRight} className="!hidden sm:!inline-block rotate-90 sm:rotate-0" />
 					<FontAwesomeIcon
 						icon={faArrowAltRight}

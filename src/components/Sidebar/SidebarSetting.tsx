@@ -22,19 +22,20 @@ export function SidebarSetting({
 	useEffect(() => {
 		console.log(`Setting ${name} is ${value}`)
 		if (!value) {
-			document.body.classList.add(name)
+			document.body.className = `${document.body.className} ${name}`
 		} else {
-			document.body.classList.remove(name)
+			document.body.className = document.body.className.replace(name, '')
+			// document.body.classList.remove(name)
 		}
 	}, [name, value])
 
 	return (
-		<div className="flex flex-row gap-1 items-start ms-4">
-			<input type="checkbox" name={name} className="h-4 leading-none" checked={value} onChange={handleChange} />
+		<label className="flex flex-row gap-1 items-start ms-4 cursor-pointer pointer-events-auto">
+			<input type="checkbox" id={name} className="h-4 leading-none" checked={value} onChange={handleChange} />
 			<div className="flex flex-col text-sm gap-1 leading-[16px]">
-				<label htmlFor={name}>{label}</label>
+				<div>{label}</div>
 				{description && <span className="italic text-xs text-background leading-none">{description}</span>}
 			</div>
-		</div>
+		</label>
 	)
 }

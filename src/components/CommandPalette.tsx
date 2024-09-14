@@ -2,7 +2,7 @@
 
 import './CommandPalette.css'
 
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { Command } from 'cmdk'
 import { useRouter } from 'next/navigation'
 
@@ -12,6 +12,7 @@ import ItemImage from './ItemImage'
 
 export function CommandPalette() {
 	const router = useRouter()
+	const listRef = useRef<HTMLDivElement>(null)
 
 	const items = Object.entries(data.items).sort(([, entry1], [, entry2]) => entry1.name.localeCompare(entry2.name))
 
@@ -25,24 +26,32 @@ export function CommandPalette() {
 				setOpen(open => !open)
 			}
 		}
-
 		document.addEventListener('keydown', down)
 		return () => document.removeEventListener('keydown', down)
 	}, [])
 
+	// const scrollUp = useCallback((value: string) => {
+	const scrollUp = useCallback(() => {
+		// if (value === "") {
+		requestAnimationFrame(() => {
+			listRef.current?.scrollTo({ top: 0 })
+		})
+		// }
+	}, [])
+
 	const handleSelect = useCallback(
 		(item: string) => {
-			setOpen(false)
 			router.push(`#${item}`)
+			setOpen(false)
 		},
 		[router]
 	)
 
 	return (
 		<Command.Dialog open={open} onOpenChange={setOpen} className="vercel">
-			<Command.Input />
+			<Command.Input onValueChange={scrollUp} />
 
-			<Command.List>
+			<Command.List ref={listRef}>
 				{items.map(([key, value]) => (
 					<Command.Item key={key} keywords={[value.name]} value={key} onSelect={handleSelect}>
 						<span>{value.name}</span>
@@ -50,7 +59,7 @@ export function CommandPalette() {
 					</Command.Item>
 				))}
 				{/* {loading && <Command.Loading>Hang on…</Command.Loading>} */}
-				<Command.Empty>No results found.</Command.Empty>
+				<Command.Empty>Try again, Pioneer...</Command.Empty>
 				{/* <Command.Group heading="Fruits"> */}
 				{/* <Command.Separator /> */}
 				{/* </Command.Group> */}

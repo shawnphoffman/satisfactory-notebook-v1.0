@@ -15,6 +15,11 @@ export const getItemByClassName = (className: string) => {
 }
 
 export const getBuildingByClassName = (className: string) => {
+	if (!className) {
+		return null
+	}
+	// console.log('getBuildingByClassName', className)
+
 	const item = Object.values(data.buildings).find(x => x.className === className)
 	if (!item) {
 		// console.warn(`No building found for ${className}`)

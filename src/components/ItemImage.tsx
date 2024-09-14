@@ -18,8 +18,7 @@ export default function ItemImage({ itemClass, alt, ...rest }: Props) {
 	const image = typedImageMapping[itemClass]
 
 	if (!image) {
-		console.warn(`No image mapping found for ${itemClass}`)
-		// TODO Return an icon or placeholder
+		// console.warn(`No image mapping found for ${itemClass}`)
 		return null
 	}
 
