@@ -15,7 +15,10 @@ export default function Item({ item }: Props) {
 	// if (!recipes.length) return null
 
 	return (
-		<div id={item.className} className="flex gap-4 flex-row px-2 break-after-page break-inside-auto w-full">
+		<div
+			id={item.className}
+			className="flex gap-4 flex-row px-2 [body.multiple-per-page_&]:break-after-auto [body.multiple-per-page_&]:break-inside-avoid break-after-page break-inside-auto w-full"
+		>
 			{/* I do not remember why this is necessary */}
 			<div className="p-1 flex flex-col w-full gap-1">
 				{/* Overview */}

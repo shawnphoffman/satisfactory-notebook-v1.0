@@ -18,14 +18,20 @@ type Props = {
 }
 
 export default function Recipe({ recipe }: Props) {
+	const isAlternate = recipe.alternate
 	/* TODO This is dumb... */
 	const primaryProducer = getBuildingByClassName(recipe.producedIn.length ? recipe.producedIn[0] : '')
 	return (
-		<div key={recipe.className} className="flex border flex-col items-center p-2 rounded-md break-inside-avoid max-w-full gap-1 ">
+		<div
+			key={recipe.className}
+			className={`flex border flex-col items-center p-2 rounded-md break-inside-avoid max-w-full gap-1 ${
+				isAlternate && '[body.hide-alternates_&]:hidden'
+			}`}
+		>
 			{/*  */}
 			<div className="flex w-full">
 				<div className="flex-1 basis-1/5 text-[11px] font-medium italic items-start justify-start flex">
-					{recipe.alternate && <FontAwesomeIcon icon={faDiscDrive} className="text-secondary/50 text-base" title="Alternate Recipe" />}
+					{isAlternate && <FontAwesomeIcon icon={faDiscDrive} className="text-secondary/50 text-base" title="Alternate Recipe" />}
 					{recipe.isVariablePower && <FontAwesomeIcon icon={faTransformerBolt} className="text-alt-sky text-base" title="Variable Power" />}
 					{recipe.inWorkshop && (
 						<FontAwesomeIcon icon={faScrewdriverWrench} className="text-alt-green/50 text-base" title="Workshop Craftable" />
@@ -57,12 +63,14 @@ export default function Recipe({ recipe }: Props) {
 					))}
 				</div>
 				{/* Arrow */}
-				<div className="flex-0 shrink-1 rotate-90 sm:rotate-0">
+				<div className="flex-0 shrink-1 md:w-full items-center justify-center flex">
 					{/* <div className="flex-0 shrink-1"> */}
-					<FontAwesomeIcon icon={faArrowAltRight} className="!hidden sm:!inline-block" />
-
-					<FontAwesomeIcon icon={faArrowAltRight} className="!inline-block sm:!hidden relative" transform={'grow-10'} />
-					{/* <FontAwesomeIcon icon={faCircleDown} className="!inline-block sm:!hidden relative" transform={'grow-15'} /> */}
+					<FontAwesomeIcon icon={faArrowAltRight} className="!hidden sm:!inline-block rotate-90 sm:rotate-0" />
+					<FontAwesomeIcon
+						icon={faArrowAltRight}
+						className="!inline-block sm:!hidden relative rotate-90 sm:rotate-0"
+						transform={'grow-10'}
+					/>
 				</div>
 				{/* Products */}
 				<div className="w-full flex-1 gap-0.5 flex flex-col">

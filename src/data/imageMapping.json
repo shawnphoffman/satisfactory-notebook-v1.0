@@ -4662,9 +4662,5 @@
 	"Desc_AlienPowerFuel_C": {
 		"full": "Game/FactoryGame/Resource/Parts/AlienPowerMatrix/UI/IconDesc_AlienPowerMatrix_256.png",
 		"short": "IconDesc_AlienPowerMatrix_256.png"
-	},
-	"Desc_ResourceSinkCoupon_C": {
-		"full": "/Game/FactoryGame/Resource/Parts/ResourceSinkCoupon/UI/IconDesc_Ficsit_Coupon_256.png",
-		"short": "IconDesc_Ficsit_Coupon_256.png"
 	}
 }

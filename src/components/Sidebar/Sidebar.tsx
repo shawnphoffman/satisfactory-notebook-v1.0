@@ -8,15 +8,16 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 import logo from './logo_stripes.png'
+import { SidebarSetting } from './SidebarSetting'
 
 export default function Sidebar() {
 	return (
 		<div
-			className="flex bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky sm:basis-72 overflow-hidden top-0 p-2 flex-col justify-start h-auto md:h-screen border-r border-r-sidebar-dark/20 print:hidden gap-4"
+			className="flex bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky md:basis-72 overflow-hidden top-0 p-2 flex-col justify-start h-fit md:h-screen border-r border-r-sidebar-dark/20 print:hidden gap-4"
 			id="sidebar"
 		>
-			<Link href="/">
-				<Image src={logo} alt="Satisfactory Notebook" width={280} priority className="self-center md:self-start" />
+			<Link href="/" className="self-center md:self-start" scroll>
+				<Image src={logo} alt="Satisfactory Notebook" width={280} priority />
 			</Link>
 			{/* Settings */}
 			<div className="flex flex-col gap-2">
@@ -25,21 +26,16 @@ export default function Sidebar() {
 					<span>Settings</span>
 				</div>
 				{/*  */}
-				<div className="flex flex-row gap-1 items-start ms-4">
-					<input type="checkbox" name="temp" className="h-4 leading-none" />
-					<div className="flex flex-col text-sm gap-1 leading-[16px]">
-						<label htmlFor="temp">Temp</label>
-						<span className="italic text-xs text-background leading-none">Temp description</span>
-					</div>
-				</div>
+				<SidebarSetting name="hide-alternates" label="Show Alternate Recipes" defaultValue={true} description="Find more hard drives" />
 				{/*  */}
-				<div className="flex flex-row gap-1 items-start ms-4">
-					<input type="checkbox" name="temp" className="h-4 leading-none" />
-					<div className="flex flex-col text-sm gap-1 leading-[16px]">
-						<label htmlFor="temp">Temp</label>
-						<span className="italic text-xs text-background leading-none">Temp description</span>
-					</div>
-				</div>
+				<SidebarSetting name="multiple-per-page" label="One Recipe Per Page" defaultValue={true} description="Waste ALL the paper" />
+				{/*  */}
+				<SidebarSetting
+					name="hide-cycle-rates"
+					label="Show Cycle Rates"
+					defaultValue={true}
+					description="Include per cycle inputs/outputs"
+				/>
 			</div>
 
 			{/* Categories */}
@@ -63,7 +59,7 @@ export default function Sidebar() {
 			</div> */}
 
 			{/* Print Settings */}
-			<div className="flex-col gap-2 hidden sm:flex">
+			<div className="flex-col gap-2 hidden md:flex">
 				<div className="font-bold flex flex-row gap-0.5 items-center">
 					<FontAwesomeIcon icon={faPrint} fixedWidth />
 					<span>Print Settings</span>
@@ -87,11 +83,7 @@ export default function Sidebar() {
 				</div>
 			</div>
 
-			<div className="font-bold animate-pulse text-orange-800">
-				I am currently updating the site for 1.0. Check back for additional functionality.
-			</div>
-
-			<div className=" hidden sm:flex flex-1 justify-end text-[11px] italic flex-col flex-wrap text-pretty leading-normal">
+			<div className="hidden md:flex flex-1 justify-end text-[11px] italic flex-col flex-wrap text-pretty leading-normal">
 				Assets come from Satisfactory or from websites created and owned by Coffee Stain Studios. All copyright and registered trademarks
 				present in the images are proprietary to Coffee Stain Studios.
 			</div>

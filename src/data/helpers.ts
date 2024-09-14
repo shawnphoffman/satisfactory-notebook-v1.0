@@ -8,7 +8,7 @@ import { IAnyRecipeSchema } from '@/scripts/bin/schema/IRecipeSchema'
 export const getItemByClassName = (className: string) => {
 	const item = Object.values(data.items).find(x => x.className === className)
 	if (!item) {
-		console.warn(`No item found for ${className}`)
+		// console.warn(`No item found for ${className}`)
 		return null
 	}
 	return item

@@ -13,17 +13,25 @@ export default function RecipePart({ part, recipe }: Props) {
 	const itemClass = getItemByClassName(part.item)!
 	const rate = calculateProductionRate(part.amount, recipe.time, itemClass?.liquid || false || false)
 
-	if (!itemClass) {
-		console.warn(`No item found`, { itemClass, part })
-	}
+	// if (!itemClass) {
+	// 	console.warn(`No item found`, { itemClass, part })
+	// }
 
 	return (
-		<div className="flex items-center flex-row justify-between bg-sidebar/50 p-1 rounded-md gap-1">
+		<div className="flex items-center basis-full flex-row justify-between bg-sidebar/50 p-1 rounded-md gap-2">
 			{/* Info */}
-			<div className="flex items-center text-xs leading-tight gap-1">
+			<div className="flex flex-1 items-center text-xs leading-tight gap-1">
 				<ItemImage itemClass={part.item} alt={part.item} className="w-8 h-8" width={32} height={32} />
 				<a href={`#${part.item}`}>{itemClass?.name}</a>
 			</div>
+
+			{rate?.perCycle && (
+				<div className="text-xs text-black/80 bg-secondary-dark/10 border border-secondary-dark/20 flex flex-row px-1.5 py-0.5 rounded [body.hide-cycle-rates_&]:hidden">
+					<div>{rate?.perCycle}</div>
+					<div>{rate?.perCycleLabel}</div>
+				</div>
+			)}
+
 			{/* Amount */}
 			<div className="whitespace-nowrap leading-tight flex items-center">
 				{/* TODO Handle cycle and fraction options */}
