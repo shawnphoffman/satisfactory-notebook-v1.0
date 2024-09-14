@@ -21,7 +21,7 @@ export default function RecipePart({ part, recipe }: Props) {
 		<div className="flex items-center basis-full flex-row justify-between bg-sidebar/50 p-1 rounded-md gap-2">
 			{/* Info */}
 			<div className="flex flex-1 items-center text-xs leading-tight gap-1">
-				<ItemImage itemClass={part.item} alt={part.item} className="w-8 h-8" width={32} height={32} />
+				<ItemImage itemClass={part.item} className="w-8 h-8" width={32} height={32} />
 				<a href={`#${part.item}`}>{itemClass?.name}</a>
 			</div>
 

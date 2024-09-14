@@ -27,7 +27,7 @@ export default function Item({ item }: Props) {
 						<h1 className="text-3xl font-bold text-pretty">{item.name}</h1>
 						<div className="text-xs leading-normal text-pretty">{item.description}</div>
 					</div>
-					<ItemImage itemClass={item.className} className="p-1 rounded-md border w-24 h-24" width={96} height={96} alt={item.name} />
+					<ItemImage itemClass={item.className} className="p-1 rounded-md border w-24 h-24" width={96} height={96} />
 				</div>
 
 				{/* Recipes */}

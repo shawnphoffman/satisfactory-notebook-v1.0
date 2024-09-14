@@ -6,7 +6,6 @@ import { IAnyRecipeSchema } from '@/scripts/bin/schema/IRecipeSchema'
 
 type Props = {
 	itemClass: IAnyRecipeSchema['className'] | IItemAmountSchema['item'] | string
-	alt: string
 } & Partial<ImageProps>
 
 type ImageMappingType = {
@@ -14,7 +13,7 @@ type ImageMappingType = {
 }
 const typedImageMapping: ImageMappingType = imageMapping
 
-export default function ItemImage({ itemClass, alt, ...rest }: Props) {
+export default function ItemImage({ itemClass, ...rest }: Props) {
 	const image = typedImageMapping[itemClass]
 
 	if (!image) {
@@ -22,5 +21,5 @@ export default function ItemImage({ itemClass, alt, ...rest }: Props) {
 		return null
 	}
 
-	return <Image {...rest} src={`/images/${image.short}`} alt={alt} />
+	return <Image {...rest} src={`/images/${image.short}`} alt={''} quality={50} />
 }

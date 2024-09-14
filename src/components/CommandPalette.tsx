@@ -55,7 +55,7 @@ export function CommandPalette() {
 				{items.map(([key, value]) => (
 					<Command.Item key={key} keywords={[value.name]} value={key} onSelect={handleSelect}>
 						<span>{value.name}</span>
-						<ItemImage itemClass={value.className} alt={value.name} width={36} height={36} />
+						<ItemImage itemClass={value.className} width={36} height={36} />
 					</Command.Item>
 				))}
 				{/* {loading && <Command.Loading>Hang on…</Command.Loading>} */}

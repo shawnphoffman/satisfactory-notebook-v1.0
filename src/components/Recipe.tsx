@@ -43,13 +43,7 @@ export default function Recipe({ recipe }: Props) {
 					{primaryProducer && (
 						<>
 							{primaryProducer.name}
-							<ItemImage
-								itemClass={primaryProducer.className}
-								alt={primaryProducer.name}
-								className="w-5 h-5 hidden sm:block"
-								width={20}
-								height={20}
-							/>
+							<ItemImage itemClass={primaryProducer.className} className="w-5 h-5 hidden sm:block" width={20} height={20} />
 						</>
 					)}
 				</div>
