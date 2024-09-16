@@ -1,5 +1,6 @@
 import {
 	faCog,
+	faLink,
 	// faLayerGroup,
 	faPrint,
 } from '@awesome.me/kit-90105b07a9/icons/classic/solid'
@@ -13,12 +14,25 @@ import { SidebarSetting } from './SidebarSetting'
 export default function Sidebar() {
 	return (
 		<div
-			className="flex bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky md:basis-72 overflow-hidden top-0 p-2 flex-col justify-start h-fit md:h-screen border-r border-r-sidebar-dark/20 print:hidden gap-4"
+			className="top-0 flex flex-col justify-start gap-4 p-2 overflow-hidden border-r bg-sidebar max-sm:drop-shadow-md min-w-72 md:sticky md:basis-72 h-fit md:h-screen border-r-sidebar-dark/20 print:hidden"
 			id="sidebar"
 		>
 			<Link href="/" className="self-center md:self-start" scroll>
 				<Image src={logo} alt="Satisfactory Notebook" width={280} priority />
 			</Link>
+			{/* Routes */}
+			<div className="flex flex-col gap-1">
+				{/* <Link href={'/'} className="px-2 py-1 border"> */}
+				<Link href={'/'} className="font-bold flex flex-row gap-0.5 items-center hover:underline">
+					<FontAwesomeIcon icon={faLink} fixedWidth />
+					<>Recipes</>
+				</Link>
+				<Link href={'/printables'} className="font-bold flex flex-row gap-0.5 items-center hover:underline">
+					<FontAwesomeIcon icon={faLink} fixedWidth />
+					<>Additional Printables</>
+				</Link>
+			</div>
+
 			{/* Settings */}
 			<div className="flex flex-col gap-2">
 				<div className="font-bold flex flex-row gap-0.5 items-center">
@@ -46,13 +60,13 @@ export default function Sidebar() {
 					<FontAwesomeIcon icon={faLayerGroup} fixedWidth />
 					<span>Categories</span>
 				</div>
-				<div className="flex flex-row gap-1 items-start ms-4">
+				<div className="flex flex-row items-start gap-1 ms-4">
 					<input type="checkbox" name="temp" className="h-4 leading-none" />
 					<div className="flex flex-col text-sm gap-1 leading-[16px]">
 						<label htmlFor="temp">Temp</label>
 					</div>
 				</div>
-				<div className="flex flex-row gap-1 items-start ms-4">
+				<div className="flex flex-row items-start gap-1 ms-4">
 					<input type="checkbox" name="temp" className="h-4 leading-none" />
 					<div className="flex flex-col text-sm gap-1 leading-[16px]">
 						<label htmlFor="temp">Temp</label>
@@ -61,7 +75,7 @@ export default function Sidebar() {
 			</div> */}
 
 			{/* Print Settings */}
-			<div className="flex-col gap-2 hidden md:flex">
+			<div className="flex-col hidden gap-2 md:flex">
 				<div className="font-bold flex flex-row gap-0.5 items-center">
 					<FontAwesomeIcon icon={faPrint} fixedWidth />
 					<span>Print Settings</span>

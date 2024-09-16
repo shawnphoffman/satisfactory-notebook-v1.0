@@ -31,10 +31,10 @@ export default function Recipe({ recipe }: Props) {
 			{/*  */}
 			<div className="flex w-full">
 				<div className="flex-1 basis-1/5 text-[11px] font-medium italic items-start justify-start flex">
-					{isAlternate && <FontAwesomeIcon icon={faDiscDrive} className="text-secondary/50 text-base" title="Alternate Recipe" />}
+					{isAlternate && <FontAwesomeIcon icon={faDiscDrive} className="text-secondary/75 text-base" title="Alternate Recipe" />}
 					{recipe.isVariablePower && <FontAwesomeIcon icon={faTransformerBolt} className="text-alt-sky text-base" title="Variable Power" />}
 					{recipe.inWorkshop && (
-						<FontAwesomeIcon icon={faScrewdriverWrench} className="text-alt-green/50 text-base" title="Workshop Craftable" />
+						<FontAwesomeIcon icon={faScrewdriverWrench} className="text-alt-green/75 text-base" title="Workshop Craftable" />
 					)}
 					{recipe.inHand && <FontAwesomeIcon icon={faHand} className="text-alt-purple/50 text-base" title="Craftable" />}
 				</div>
