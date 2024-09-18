@@ -29,7 +29,7 @@ export default function Sidebar() {
 				</Link>
 				<Link href={'/printables'} className="font-bold flex flex-row gap-0.5 items-center hover:underline">
 					<FontAwesomeIcon icon={faLink} fixedWidth />
-					<>Additional Printables</>
+					<>Additional Pages</>
 				</Link>
 			</div>
 
